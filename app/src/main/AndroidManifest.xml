@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang">
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -15,6 +14,31 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".food5Activity" />
+        <activity android:name=".food2Activity" />
+        <activity
+            android:name=".DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".food4Activity" />
+        <activity android:name=".food1Activity" />
+        <activity
+            android:name=".DetailActivity2"
+            android:label="@string/title_activity_detail1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetailActivity3"
+            android:label="@string/title_activity_detail2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetailActivity4"
+            android:label="@string/title_activity_detail2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetailActivity5"
+            android:label="@string/title_activity_detail2"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
+
 
 </manifest>

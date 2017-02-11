@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?><!--SUMATRA-->
+<resources>
+    <string-array name="places">
+        <item>Danau Maninjau</item>
+        <item>Lembah Harau</item>
+        <item>Ombak Bono</item>
+        <item>Air Terjun Bidadari</item>
+        <item>Gunung Sibayak</item>
+        <item>Danau Toba</item>
+        <item>Bukit Barisan</item>
+        <item>Pantai Selat Baru</item>
+        <item>Pantai Batu Bertupang</item>
+        <item>Pantai Panjang</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Danau</item>
+        <item>Lembah</item>
+        <item>Sungai</item>
+        <item>Air Terjun</item>
+        <item>Gunung</item>
+        <item>Danau</item>
+        <item>Taman Nasional</item>
+        <item>Pantai</item>
+        <item>Pantai</item>
+        <item>Pantai</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Danau Maninjau terletak di kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat. Danau
+		ini tercatat sebagai danau terluas kesebelas di Indonesia.
+		Sedangkan di Sumatera Barat, Maninjau merupakan danau terluas kedua setelah Danau Singkarak
+		yang memiliki luas 129,69 km² yang berada di dua kabupaten yaitu Kabupaten Tanah Datar
+		dan Kabupaten Solok. Penginapan yang terkenal yakni Nuansa Maninjau Resort, Pasir Panjang Permai, Maninjau Indah.
+        </item>
+        <item>
+		Lembah Harau adalah sebuah ngarai dekat kota Payakumbuh di kabupaten Limapuluh Koto, provinsi Sumatera Barat.
+		Lembah Harau diapit dua bukit cadas terjal dengan ketinggian mencapai 150 meter. Lembah Harau .dilingkungi batu
+		pasir yang terjal berwarna-warni, dengan ketinggian 100 sampai 500 meter. Topografi Cagar Alam Harau adalah berbukit-bukit
+		dan bergelombang. Tinggi dari permukaan laut adalah 500 sampai 850 meter, bukit tersebut antara lain adalah Bukit Air Putih,
+		Bukit Jambu, Bukit Singkarak dan Bukit Tarantang. Penginapan yang terkenal yakni abdi homestay, novi homestay lembah harau
+        </item>
+        <item>
+		Ombak Bono Sungai Kampar merupakan suatu fenomena alam akibat adanya pertemuan arus sungai menuju laut dan arus laut yang
+		masuk ke sungai akibat pasang.Biasanya ombak atau gelombang hanya terjadi di tepi pantai atau laut ataupun danau yang luas
+		akibat perubahan arus air dan angin. Ombak yang berukuran cukup besar banyak dimanfaatkan untuk bermain selancar.
+		Maka, jika melihat orang berselancar di pantai adalah suatu hal yang sudah biasa. Tetapi melihat orang berselancar di arus
+		sungai adalah suatu hal yang luar biasa.Bono terbesar biasanya terjadi ketika musim penghujan dimana debit air Sungai Kampar
+		cukup besar yaitu sekitar bulan November dan Desember.
+        </item>
+
+        <item>
+		Nama lain Air Terjun Bidadari adalah Ayek Asam menurut warga setempat. Air terjun ini terletak di Desa Karang Dalam, Kecamatan Pulau Pinang, Kabupaten Lahat,
+		Sumatera Selatan yang bermuara ke Sungai Lematang ini
+		memiliki ketinggian sekitar 30 m dengan lebar atas sekitar 10 m dan bawah sekitar 15 m. Di sekitar lokasi Air Terjun tersebut,
+		ada sekitar 6 air terjun lagi dan 3 diantaranya adalah Air Terjun Bujang Gadis dengan ketinggian sekitar 4 m, Air Terjun Sumbing
+		dengan ketinggian sekitar 35 m dan Air Terjun Naga dengan ketinggian sekitar 10 m. Ketiga air terjun ini dapat dinikmati dengan
+		menyusuri aliran dari Air Terjun Bidadari hingga ke bawah Air Terjun Naga.
+        </item>
+
+        <item>
+		Gunung Sibayak adalah kelas gunung berapi aktif yang memiliki uap panas. Selain itu, letusan yang terjadi beberapa waktu
+		lalu cukup mengguncang bebatuan di puncak gunung. Kondisi yang cukup “tidak beraturan” pada bebatuan puncak nya ini,
+		justru menjadi keunikan tersendiri yang menarik wisatawan yang senang menguji adrenalinnya untuk berusaha menaklukkan
+		Gunung Sibayak hingga mencapai puncaknya. Pemandangan matahari terbit dari puncak gunung akan membuat anda terperangah.
+		Kilau kemunculan sinar matahari akan menerpa wajah Anda memberikan suasana hangat, menggantikan hawa dingin yang semalaman
+		menyelimuti perjalanan. Penginapan terkenal yakni Hotel Sibayak International, Mikie Holiday Resort.
+        </item>
+
+        <item>
+		Danau Toba adalah sebuah danau tekto-vulkanik dengan ukuran panjang 100 kilometer dan lebar 30 kilometer yang terletak di Provinsi Sumatera
+		Utara, Indonesia. Danau ini merupakan danau terbesar di Indonesia dan Asia Tenggara. Di tengah danau ini terdapat sebuah pulau
+		vulkanik bernama Pulau Samosir. Penginapan terkenal yakni Hotel Niagara Parapat , Danau Toba International Cottage Parapat , Inna Parapat.
+		</item>
+
+		<item>
+		Taman nasional bukit barisan adalah sebuah taman nasional yang ditujukan untuk melindungi hutan hujan tropis pulau Sumatra beserta kekayaan alam hayati yang dimilikinya.
+		UNESCO menjadikan Taman Nasional Bukit Barisan Selatan sebagai Warisan Dunia. Bukit Barisan Selatan dinyatakan sebagai Cagar Alam
+		Suaka Margasatwa pada tahun 1935 dan menjadi Taman Nasional pada tahun 1982. Pada awalnya ukuran taman adalah seluas 356.800 hektare .
+		Tetapi luas taman saat ini yang dihitung dengan menggunakan GIS kurang-lebih sebesar 324.000 Ha.
+		</item>
+
+		<item>
+		Pantai Selat Baru merupakan pantai unggulan dan juga pantai terindah di Bengkalis, Nama Pantai Selat Baru ini diambil dari
+		nama desa dimana pantai ini berada, Desa Selat Baru, yang juga menjadi Ibukota Kecamatan Bantan. Pemerintah Kabupaten Bengkalis telah
+		menjadikan pantai tersebut sebagai salah satu objek wisata andalan.Penginapan terkenal yakni Serela legian hotel, katamaran resort, atanaya by century park.
+		</item>
+
+		<item>
+		Aceh juga memiliki banyak wisata pantai yang indah, salah satunya adalah Pantai Batu Bertupang. Pantai yang indah lainnya adalah
+		Pantai Lampuuk, Pantai Terong Pantai Kuala Parek dan Pantai Pasir Saka.
+		</item>
+
+		<item>
+		Pantai Panjang terletak di Kotamadya Bengkulu, Propinsi Bengkulu. Kondisi pantainya yang landai, airnya yang bersih, serta hamparan
+		pasir putihnya yang luas, merupakan daya tarik tersendiri dari obyek wisata Pantai Panjang. Dengan kondisi pantai seperti itu,
+		pengunjung dapat mandi sepuasnya sambil menikmati semilir angin pantai yang masih bersih dan sejuk karena pantai ini jauh dari
+		area perindustrian.Selain itu, banyaknya pohon cemara yang tumbuh di sekitar pantai ini juga merupakan keunikan tersendiri yang
+		mungkin tidak dimiliki oleh pantai-pantai lainnya. Sebab, secara umum, pohon yang biasanya tumbuh di daerah pantai adalah pohon
+		kelapa, dan ini tidak dijumpai di Pantai Panjang. Penginapan terkenal Nala sea side hotel,Amaris hotel Bengkulu,pasir putih resort.
+		</item>
+    </string-array>
+    <string-array name="place_locations">
+        <item> kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat</item>
+        <item>kota Payakumbuh di kabupaten Limapuluh Koto, provinsi Sumatera Barat</item>
+        <item>Sungai Kampar</item>
+		<item>Desa Karang Dalam, Kecamatan Pulau Pinang, Kabupaten Lahat,
+		Sumatera Selatan</item>
+        <item>Gunung Sibayak</item>
+		<item>Provinsi Sumatera
+		Utara</item>
+        <item>Taman Nasional Bukit Barisan</item>
+        <item>Desa Selat Baru</item>
+        <item> Pantai Batu Bertupang </item>
+        <item>Kotamadya Bengkulu, Propinsi Bengkulu</item>
+    </string-array>
+    <!--<array name="places_picture">-->
+        <!--<item>@drawable/s1</item>-->
+        <!--<item>@drawable/s2</item>-->
+        <!--<item>@drawable/s3</item>-->
+        <!--<item>@drawable/s4</item>-->
+        <!--<item>@drawable/s5</item>-->
+        <!--<item>@drawable/s6</item>-->
+        <!--<item>@drawable/s7</item>-->
+        <!--<item>@drawable/s8</item>-->
+        <!--<item>@drawable/s9</item>-->
+        <!--<item>@drawable/s10</item>-->
+    <!--</array>-->
+
+    <!--KALIMANTAN-->
+    <string-array name="placesKali">
+        <item>Danau Sentarum</item>
+        <item>Pantai Melawai</item>
+        <item>Tanjung Puting</item>
+        <item>Pasar Terapung Muara Kuin </item>
+        <item>Jembatan Tajuk di Bukit Bangkirai</item>
+        <item>Pulau Kembang</item>
+        <item>Pulau Beras Basah</item>
+        <item>Bukit Kelam</item>
+        <item>Sungai Mahakam</item>
+        <item>Kecamatan Lokasado</item>
+    </string-array>
+    <string-array name="place_descKali">
+        <item>Danau</item>
+        <item>Pantai</item>
+        <item>Pantai</item>
+        <item>Pasar</item>
+        <item>Jembatan</item>
+        <item>Pulau</item>
+        <item>Pulau</item>
+        <item>Bukit</item>
+        <item>Sungai</item>
+        <item>Kecamatan</item>
+    </string-array>
+    <string-array name="place_detailsKali">
+        <item> Danau Sentarum terletak di Kapuas Hulu, Kalimantan Barat Danau ini dipenuhi air selama 10 bulan setiap tahunnya, dan sisanya
+		akan surut, membentuk kolam-kolam kecil yang berisi ikan-ikan kecil. Saat kemarau, Air Danau Sentarum memasok setengah dari aliran
+		air Sungai Kapuas. Luas keseluruhan danau ini 132.000 hektarePenginapan Permata Bunda, Penginapan Aman Sentosa, Penginapan Marisa
+		</item>
+
+        <item> Pantai Melawai terletak di Jl. Pelabuhan Semayang, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur.Waktu yang tepat untuk
+		mengunjungi salah satu tempat wisata di Balikpapan ini adalah saat sore hari menjelang malam. Pada saat itu, penjual makanan sudah ramai menggelar dagangannya. Anda bisa menikmati pemandangan matahari terbenam sambil bersantai menikmati makanan Anda dengan duduk lesehan di atas tikar yang telah disiapkan
+		Bintang Hotel Balikpapan , Sentosa Guest House , Fortuna Guest House.</item>
+
+		<item>Kecamatan Hanau, Danau Sembuluh, dan Seruyan Hilir di Kabupaten Seruyan sebuah taman nasional yang terletak di semenanjung
+		barat daya provinsi Kalimantan Tengah.</item>
+
+        <item> Pasar terapung muara kuin terletak di Banjarmasin. pasar terapung tradisional yang berada di atas sungai Barito di muara
+		sungai Kuin, Banjarmasin, Kalimantan Selatan.Pasar Terapung Muara Kuin merupakan pusaka saujana Kota Banjarmasin.
+		Para pedagang dan pembeli menggunakan jukung, sebutan perahu dalam bahasa Banjar. Pasar ini mulai setelah salat Subuh sampai
+		selepas pukul tujuh pagi. Matahari terbit memantulkan cahaya di antara transaksi sayur-mayur dan hasil kebun dari kampung-kampung
+		sepanjang aliran sungai Barito dan anak-anak sungainya.</item>
+
+        <item> Jembatan Tajuk di Bukit Bangkirai. Kawasan wisata ini terletak di Kecamatan Samboja, Kabupaten Kutai Kartanegara,
+		Kalimantan Timur. Bukit Bangkirai dapat ditempuh melalui perjalanan darat selama 1,5 jam dari Kota Balikpapan.
+		Wisata ini menawarkan pesona hutan hujan tropis yang masih alami, yang dilengkapi dengan sarana dan prasarana wisata seperti restoran,
+		lamin untuk pertemuan, kolam renang, serta cottage maupun jungle cabin. Di kawasan ini terdapat canopy bridge (jembatan tajuk)
+		sepanjang 64 m yang digantung menghubungkan 5 pohon Bangkirai di ketinggian 30 m. Jembatan tajuk ini merupakan yang pertama di
+		Indonesia, kedua di Asia dan yang kedelapan di dunia</item>
+
+        <item> Pulau Kembang terletak di kecamatan Alalak, Kabupaten Barito Kuala, provinsi Kalimantan Selatan .
+		Pulau Kembang ditetapkan sebagai hutan wisata berdasarkan SK. Menteri Pertanian No. 788/Kptsum12/1976 dengan luas 60 Ha.
+		Di dalam kawasan hutan wisata ini terdapat altar yang diperuntukkan sebagai tempat meletakkan sesaji bagi " penjaga" pulau
+		Kembang yang dilambangkan dengan dua buah arca berwujud kera berwarna putih (Hanoman), oleh masyarakat dari etnis Tionghoa-
+		Indonesiayang mempunyai kaul atau nazar tertentu. Seekor kambing jantan yang tanduknya dilapisi emas biasanya dilepaskan ke
+		dalam hutan pulau Kembang apabila sebuah permohonan berhasil atau terkabul.</item>
+
+		<item> Pulau Beras Basah merupakan sebuah pulau kecil yang berlokasi di Selat Makassar timur bagian Pulau Kalimantan.
+		Secara administrasi, pulau ini berada di bawah pemerintah Kota Bontang, Provinsi Kalimantan Timur. Pulau ini sekarang
+		menjadi tujuan wisata dan para penyelam yang tertarik akan keindahan pemandangan bawah lautnya.</item>
+
+		<item> Bukit Kelam adalah gunung yang terletak di Kalimantan Barat. Gunung ini memiliki tanaman endemik kantong semar dari
+		spesies Nepenthes clipeata.Gunung Kelam membentang dari barat ke timur dengan ketinggian 1.002 mdpl merupakan sebongkah
+		batu raksasa (monolit). Tempat ini terletak 20 km dari kota Sintang dan sekitar 395 km dari Pontianak ibukota Kalimantan
+		Barat. Kawasan Gunung Kelam berada di wilayah Kecamatan Kelam Permai kab. Sintang Kalimantan Barat. Tepatnya di Hutan wisata
+		Bukit Kelam. Bukit Kelam berada di antara dua sungai besar yaitu Sungai Melawi dan Sungai Kapuas.
+		Masyarakat di Kalimantan menyebut Gunung Kelam sebagai Bukit Kelam karena secara umum masyarakat setempat menyebut gunung sebagai
+		"bukit raya". Untuk pendakian mencapai puncak dibutuhkan waktu 4-5 jam untuk naik dan 3-4 jam untuk turun.</item>
+
+		<item>Sungai Mahakam merupakan sungai terbesar yang membelah provinsi Kalimantan (Borneo) Timur. Alur sungai ini,
+		sebagian besar mengitari wilayah Kabupaten Kutai Kartanegara, Kabupaten Kutai Barat, dan Kota Samarinda. Bagian hulu
+		sungai ini melintasi Kabupaten Kutai Barat, sementara bagian hilirnya melintasi Kabupaten Kutai Kartanegara dan Kota Samarinda.
+		Sungai Mahakam bisa dikatakan menjadi jantung kehidupan bagi sebagian besar masyarakat Kalimantan (Borneo) Timur.
+		Penginapan terkenal yakni Harris hotel samarinda, swiss bel-hotel borneo samarinda, aston samarinda hotel</item>
+
+		<item>Kecamatan Loksado adalah sebuah kecamatan di Kabupaten Hulu Sungai Selatan, Kalimantan Selatan, Indonesia. Loksado
+		terletak di pegunungan Meratus merupakan salah satu daerah wisata alam dan atraksi budaya masyarakat Dayak Bukit.
+		Penginapan terkenal yakni Hotel Wisma Duta, Hotel Rakat Mufakat, Amandit Resort.</item>
+    </string-array>
+    <string-array name="place_locationsKali">
+        <item> Kapuas Hulu, Kalimantan Barat</item>
+        <item>Pelabuhan Semayang, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur</item>
+        <item>Kecamatan Hanau, Danau Sembuluh, dan Seruyan Hilir di Kabupaten Seruyan, KalTeng</item>
+        <item>Banjarmasin</item>
+        <item>Kecamatan Samboja, Kabupaten Kutai Kartanegara,
+		Kalimantan Timur</item>
+        <item>kecamatan Alalak, Kabupaten Barito Kuala, provinsi Kalimantan Selatan</item>
+        <item>Selat Makassar timur bagian Pulau Kalimantan</item>
+        <item>Kalimantan Barat</item>
+        <item> Kalimantan (Borneo) Timur</item>
+        <item>Kabupaten Hulu Sungai Selatan, Kalimantan Selatan</item>
+    </string-array>
+    <array name="places_pictureKali">
+        <item>@drawable/k1</item>
+        <item>@drawable/k2</item>
+        <item>@drawable/k3</item>
+        <item>@drawable/k4</item>
+        <item>@drawable/k5</item>
+        <item>@drawable/k6</item>
+        <item>@drawable/k7</item>
+        <item>@drawable/k8</item>
+        <item>@drawable/k9</item>
+        <item>@drawable/k10</item>
+    </array>
+
+    <!--SULAWESI-->
+    <string-array name="placesSula">
+        <item>Taman Nasional Lindu</item>
+        <item>Tanah Toraja</item>
+        <item>Tentena</item>
+        <item>Kepulauan Togian</item>
+        <item>Tomohon</item>
+        <item>Taman Nasional Tangkuku</item>
+        <item>Bunaken</item>
+        <item>Manado</item>
+        <item>Wakatobi</item>
+        <item>Makassar</item>
+    </string-array>
+    <string-array name="place_descSula">
+        <item>Taman nasional</item>
+        <item>Desa</item>
+        <item>Tentena</item>
+        <item>Kepulauan</item>
+        <item>Tomohon</item>
+        <item>Taman Nasional</item>
+        <item>Laut</item>
+        <item>Kota</item>
+        <item>Wakatobi</item>
+        <item>Kota</item>
+    </string-array>
+    <string-array name="place_detailsSula">
+        <item>Taman Nasional Lore Lindu memiliki fauna dan flora endemik Sulawesi serta panorama alam yang menarik karena
+		terletak di garis Wallace yang merupakan wilayah peralihan antara zona Asia dan Australia.
+		Taman Nasional Lore Lindu yang terletak di selatan kabupaten Donggala dan bagian barat kabupaten Poso menjadi daerah tangkapan
+		air bagi 3 sungai besar di Sulawesi Tengah, yakni sungai Lariang, sungai Gumbasa dan sungai Palu.
+		</item>
+
+        <item>Tana Toraja terletak di kabupaten di Provinsi Sulawesi Selatan.Suku Toraja yang mendiami daerah pegunungan dan mempertahankan
+		gaya hidup yang khas dan masih menunjukkan gaya hidup Austronesia yang asli dan mirip dengan budaya Nias. Daerah ini merupakan salah
+		satu objek wisata di Sulawesi Selatan.
+		Penginapan terkenal yakni sahid toraja hotel, hotel indra toraja, toraja misiliana hotel. </item>
+
+		<item>Tentena terletak di Kabupaten Poso, Sulawesi Tengah.Nama "Tentena" lebih dikenal oleh masyarakat di Sulawesi umumnya dan ini
+		sudah berlangsung lama, sejak Tentena memiliki kejayaan di masa lalu, yang secara khusus berkaitan dengan pembentukan pasar
+		tradisional mula-mula atau disebut dengan "Pasar Subuh", sehingga nama dari salah satu wilayah administratif kecamatan Pamona
+		Puselemba dipakai sebagai identitas dari seluruh masyarakat yang bermukim pada wilayah kecamatan tersebut.</item>
+
+        <item>Kepulauan Togian ini dikenal kaya akan terumbu karang dan berbagai biota laut yang langka dan dilindungi. Beberapa aksi
+		wisata yang dapat dilakukan di Kepulauan Togean antara lain: menyelam dan snorkelling di Pulau Kadidiri, memancing ,menjelajah
+		alam hutan yang ada di dalam hutan yang ada di Pulau Malenge, serta mengunjungi gunung Colo di Pulau Una-una. Wisatawan juga bisa
+		mengunjungi permukiman orang Bajo di Kabalutan. </item>
+
+        <item>Tomohon Sebelum tahun 2003 merupakan salah satu kecamatan di Kabupaten Minahasa. Dalam perkembangannya,
+		Tomohon mengalami banyak sekali kemajuan, sehingga ada aspirasi dari warganya untuk meningkatkan status Tomohon menjadi sebuah
+		kota. Tomohon menjadi daerah otonom (kota) dengan disahkannya Undang-Undang Nomor 10 Tahun 2003 tentang Pembentukan Kabupaten
+		Minahasa Selatan dan Kota Tomohon di Provinsi Sulawesi Utara oleh DPR RI, namun peresmiannya baru pada tanggal 4 Agustus 2003.</item>
+
+        <item>Taman Nasional Tangkuku salah satu obyek wisata andalan Provinsi Sulawesi Utara terlebih Kota Bitung yang banyak dikunjungi
+		oleh wisatawan, baik wisatawan domestik maupun wisatawan mancanegara, termasuk LSM, para pegiat lingkungan hingga para peneliti.
+		Secara administratif, Taman Nasional Tangkokoberada diwilayah administrasi Kota Bitung tepatnya di kaki gunung dua sudara</item>
+
+		<item>Bunaken terletak di Teluk Manado. Taman laut Bunaken memiliki 20 titik penyelaman (dive spot) dengan kedalaman bervariasi
+		hingga 1.344 meter. Dari 20 titik selam itu, 12 titik selam di antaranya berada di sekitar Pulau Bunaken. Dua belas titik
+		penyelaman inilah yang paling kerap dikunjungi penyelam dan pecinta keindahan pemandangan bawah laut. Sebagian besar dari
+		12 titik penyelaman di Pulau Bunaken berjajar dari bagian tenggara hingga bagian barat laut pulau tersebut. Di wilayah
+		inilah terdapat underwater great walls, yang disebut juga hanging walls, atau dinding-dinding karang raksasa yang berdiri
+		vertikal dan melengkung ke atas. Dinding karang ini juga menjadi sumber makanan bagi ikan-ikan di perairan sekitar Pulau Bunaken.
+		Penginapan terkenal yakni Raja Laut Dive Resort, Bunaken Island Resort, Bastianos Dive Resort</item>
+
+		<item>Manado Kota Manado seringkali disebut sebagai Menado. Manado terletak di Teluk Manado, dan dikelilingi oleh daerah
+		pegunungan. Kota ini memiliki 408.354 penduduk pada Sensus 2010, menjadikannya kota terbesar kedua di Sulawesi setelah Makassar
+		ibu kota dari provinsi Sulawesi Utara
+		</item>
+
+		<item>sebuah KEPULAUAN yang berada di propinsi sulawesi tenggara (Sul-Tra) dan merupakan salah satu bagian dari daerah Buton.
+		WAKATOBI terkenal sebagai salah satu tujuan wisata menarik diIndonesia khususnya dari aspek wisata bahari. </item>
+
+		<item>Makassar merupakan kota Internasional serta terbesar di kawasan Indonesia Timur dan pada masa lalu pernah menjadi
+		ibukota Negara Indonesia Timur Provinsi Sulawesi. Makassar terletak di pesisir barat daya Pulau Sulawesidan berbatasan dengan
+		Selat Makassar di sebelah barat, Kabupaten Kepulauan Pangkajene di sebelah utara, Kabupaten Marosdi sebelah timur dan Kabupaten
+		Gowa di sebelah selatan.</item>
+    </string-array>
+    <string-array name="place_locationsSula">
+        <item> selatan kabupaten Donggala dan bagian barat kabupaten Poso</item>
+        <item>Provinsi Sulawesi Selatan</item>
+        <item>Kabupaten Poso, Sulawesi Tengah</item>
+        <item>Kepulauan Togean</item>
+        <item>kecamatan di Kabupaten Minahasa</item>
+        <item>kota bintung, sulawesi utara</item>
+        <item>Teluk Manado</item>
+        <item>Kota Manado</item>
+        <item> propinsi sulawesi tenggara </item>
+        <item>Kota Makassar</item>
+    </string-array>
+    <array name="places_pictureSula">
+        <item>@drawable/u1</item>
+        <item>@drawable/u2</item>
+        <item>@drawable/u3</item>
+        <item>@drawable/u4</item>
+        <item>@drawable/u5</item>
+        <item>@drawable/u6</item>
+        <item>@drawable/u7</item>
+        <item>@drawable/u8</item>
+        <item>@drawable/u9</item>
+        <item>@drawable/u10</item>
+    </array>
+
+    <!--JAWA-->
+    <string-array name="placesJawa">
+        <item>Hutan Mangrove</item>
+        <item>Kepulauan Seribu</item>
+        <item>Desa Sawarna</item>
+        <item>Pantai Pangandaran</item>
+        <item>Dataran Tinggi Dieng</item>
+        <item>Yogyakarta</item>
+        <item>Karimunjawa</item>
+        <item>Batu</item>
+        <item>Borobudur</item>
+        <item>Kawah Ijen</item>
+        <item>Lembang</item>
+    </string-array>
+    <string-array name="place_descJawa">
+        <item>Pantai</item>
+        <item>Kepulauan</item>
+        <item>Desa Wisata</item>
+        <item>Pantai</item>
+        <item>Dataran Tinggi</item>
+        <item>Kota Wisata</item>
+        <item>Pantai</item>
+        <item>Kota Wisata</item>
+        <item>Candi</item>
+        <item>Kawah</item>
+        <item>Desa Wisata</item>
+    </string-array>
+    <string-array name="place_detailsJawa">
+            <item>
+                Terdapat pada Pantai Indah Kapuk, tepatnya di Jakarta. Memiliki kawasan yang besar dan Indah.
+		        Dimanjakan dengan jalan setapak yang terdapt di tengah-tengah hutan mangrove tersebut.
+            </item>
+            <item>
+                Kabupaten Administrasi Kepulauan Seribu adalah sebuah kabupaten administrasi di Daerah
+                Khusus Ibukota Jakarta, Indonesia. Wilayahnya meliputi gugusan kepulauan berjumlah ± 110 Pulau
+                dan ±200 Gosong Karang. Letaknya berada di Utara Teluk Jakarta
+            </item>
+            <item>
+                Pantai Sawarna adalah pantai yang menghadap ke Samudera Hindia,
+		        sehingga mempunyai ciri khas pantai selatan dengan ombaknya yang besar dan
+		        arusnya yang kuat. Letaknya yang terpencil dan akses yang agak sulit untuk
+		        dijangkau membuat pantai Sawarna seperti surga yang tersembunyi di wilayah
+		        terpencil.
+            </item>
+            <item>
+                Pantai Pangandaran merupakan sebuah objek wisata andalan Kabupaten
+		        Pangandaran (pemekaran dari Kabupaten Ciamis) yang terletak di sebelah tenggara
+		        Jawa Barat, tepatnya di Desa Pangandaran, Kecamatan Pangandaran, Kabupaten Pangandaran,
+		        Provinsi Jawa Barat.
+		        Pantai ini dinobatkan sebagai pantai terbaik di Pulau Jawa menurut AsiaRooms
+            </item>
+            <item>
+		        Dataran Tinggi Dieng adalah kawasan vulkanik aktif di Jawa Tengah, yang masuk
+		        wilayah Kabupaten Banjarnegara dan Kabupaten Wonosobo. Letaknya berada di
+		        sebelah barat kompleks Gunung Sindoro dan Gunung Sumbing. Dieng memiliki
+		        Ketinggian rata-rata adalah sekitar 2.000 m di atas permukaan laut. Suhu
+		        berkisar 12—20 °C di siang hari dan 6—10 °C di malam hari. Pada musim
+		        kemarau (Juli dan Agustus), suhu udara dapat mencapai 0 °C di pagi hari dan
+		        memunculkan embun beku yang oleh penduduk setempat disebut bun upas ("embun racun") karena
+		        menyebabkan kerusakan pada tanaman pertanian.
+            </item>
+            <item>
+                Kota Yogyakarta banyak terdapat kawasan kawasan wisata yang sangat menarik.
+		        banyak juga wisatawan asing maupun mancanegara yang berwisata di kota ini.
+            </item>
+            <item>
+		        Karimunjawa adalah kepulauan di Laut Jawa yang termasuk dalam Kabupaten Jepara,
+		        Jawa Tengah. Dengan luas daratan ±1.500 hektare dan perairan ±110.000 hektare,
+		        Karimunjawa kini dikembangkan menjadi pesona wisata
+		        Taman Laut yang mulai banyak digemari wisatawan lokal maupun mancanegara.
+            </item>
+		    <item>
+                Kota Batu adalah sebuah kota di Provinsi Jawa Timur, Indonesia. Kota ini
+		        terletak 90 km sebelah barat daya Surabaya atau 15 km sebelah barat laut Malang.
+		        Kota Batu berada di jalur yang menghubungkan Malang-Kediri dan Malang-Jombang.
+		        Kota Batu berbatasan dengan Kabupaten Mojokerto dan Kabupaten Pasuruan di sebelah
+		        utara serta dengan Kabupaten Malang di sebelah timur, selatan, dan barat.
+		        Wilayah kota ini berada di ketinggian 700-1.700 meter
+		        di atas permukaan laut dengan suhu udara rata-rata mencapai 12-19 derajat Celsius.
+            </item>
+		    <item>
+                Borobudur adalah salah satu dari keajaiban dunia. candi satu ini sangat
+		        banyak dikunjungi oleh wisatawan. Candi ini banyak meyimpan cerit - cerita sejarah jaman dahulu.
+            </item>
+		    <item>
+                Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak
+		        Gunung Ijen dengan tinggi 2.443 meter di atas permukaan laut dengan kedalaman danau
+		        200 meter dan luas kawah mencapai 5.466 Hektar. Danau kawah Ijen dikenal merupakan
+		        danau air sangat asam terbesar di dunia. Kawah Ijen berada dalam wilayah Cagar Alam
+		        Taman Wisata Ijen Kabupaten Bondowoso dan Kabupaten Banyuwangi, Jawa Timur. Setiap
+		        dini hari sekitar pukul 02.00 hingga 04.00, di sekitar kawah dapat dijumpai fenomena
+		        blue fire atau api biru, yang merupakan keunikan tempat ini, karena pemandangan
+		        alami ini hanya terjadi di dua tempat di dunia yaitu Islandia dan Ijen. Dari Kawah
+		        Ijen, kita dapat melihat pemandangan gunung lain yang ada di kompleks Pegunungan Ijen,
+		        di antaranya adalah puncak Gunung Merapi yang berada di timur Kawah Ijen,
+		        Gunung Raung, Gunung Suket, Gunung Rante, dan sebagainya.</item>
+		    <item>
+                Lembang adalah sebuah kecamatan di Kabupaten Bandung Barat, Jawa Barat,
+		        Indonesia. Kecamatan Lembang berada pada ketinggian antara 1.312 hingga 2.084
+		        meter di atas permukaan laut. Titik tertingginya ada di puncak Gunung Tangkuban
+		        Parahu. Sebagai daerah yang terletak di pegunungan, suhu rata-rata berkisar antara
+		        17°-27 °C. Dan disana
+		        juga banyak sekali destinasi wisata yang tak kalah dengan wisata – wisata lainnya.
+            </item>
+    </string-array>
+    <string-array name="place_locationsJawa">
+        <item>Pantai Indah Kapuk, Jakarta</item>
+        <item>Jakarta</item>
+            <item>Sekitar 150 Km dari Rangkasbitung dan berada di desa
+		    Sawarna kecamatan Bayah
+		    kabupaten Lebak provinsi Banten</item>
+        <item>Jawa Barat</item>
+        <item>Desa Dieng Kulon, Kecamatan Batur, Kabupaten Banjarnegara</item>
+        <item>Yogyakarta</item>
+        <item>Kabupaten Jepara, Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+		    <item>Perbatasan antara Kabupaten Banyuwangi dan
+		    Kabupaten Bondowoso, Jawa Timur, Indonesia</item>
+        <item>Jawa Barat</item>
+    </string-array>
+    <array name="places_pictureJawa">
+        <item>@drawable/j1</item>
+        <item>@drawable/j2</item>
+        <item>@drawable/j3</item>
+        <item>@drawable/j4</item>
+        <item>@drawable/j5</item>
+        <item>@drawable/j6</item>
+        <item>@drawable/j7</item>
+        <item>@drawable/j8</item>
+        <item>@drawable/j9</item>
+        <item>@drawable/j10</item>
+        <item>@drawable/j11</item>
+    </array>
+
+    <!--PAPUA-->
+    <string-array name="placesPap">
+        <item>Teluk Cendrawasih</item>
+        <item>Raja Ampat</item>
+        <item>Danau Sentani</item>
+        <item>Danau Paniai</item>
+        <item>Lembah Baliem</item>
+        <item>Desa Wisata Sauwandarek</item>
+        <item>Pantai Bosnik</item>
+        <item>Pantai Amai</item>
+        <item>Pulau Lumberpon</item>
+        <item>Tugu Macarthur</item>
+    </string-array>
+    <string-array name="place_descPap">
+        <item>Taman Nasional</item>
+        <item>Kepulauan</item>
+        <item>Danau</item>
+        <item>Danau</item>
+        <item>Lembah</item>
+        <item>Desa Wisata</item>
+        <item>Pantai</item>
+        <item>Pantai</item>
+        <item>Pulau</item>
+        <item>Wisata Sejarah</item>
+    </string-array>
+    <string-array name="place_detailsPap">
+        <item>Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut
+		terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9 Persen),
+		daratan pulau-pulau (3,8 Persen), terumbu karang (5,5 Persen), dan perairan lautan (89,8 Persen).
+        </item>
+        <item>Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang
+		berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua.
+		Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi
+		Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik
+		akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi
+		anggotanya dinamakan menurut empat pulau
+		terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.
+        </item>
+        <item>Danau ini sudah dikelola menjadi objek wisata karena berjarak 50 kilometer
+		dari Jayapura dan mudah dijangkau, sebagai pelengkap
+		di danau ini sudah banyak terdapat perahu wisata untuk berkeliling
+		di Danau Sentani.
+        </item>
+        <item>Danau ini menyajikan panorama alam yang benar-benar memukau. Bagaimana tidak,
+		alamnya yang hijau, air danau yang biru, ditambah dengan keramahan warga lokal,
+		membuat siapa saja yang berkunjung kesana akan betah berlama-lama. Menariknya lagi,
+		di sekitar danau tersimpan Nilai-nilai seni budaya masyarakat setempat yaitu seni
+		budaya Suku Mee dan Suku Moni.
+		Mungkin hal ini pula yang membuatnya terkesan unik di mata pelancong dunia.
+        </item>
+        <item>Lembah Baliem merupakan lembah di pegunungan Jayawijaya. Lembah Baliem berada
+		di ketinggian 1600 meter dari permukaan laut yang dikelilingi pegunungan dengan
+		pemandangannya yang
+		indah dan masih alami. Suhu bisa mencapai 10-15 derajat celcius pada waktu malam.
+        </item>
+        <item>Desa Wisata ini menyajikan banyak macam adat istiadat di wilayah tersebut. Para wisatawan dapat turut aktif
+		dalam melakukan adat tersebut.
+        </item>
+		<item>Pantai bosnik menjadi primadona warga Biak sebagai obyek wisata setiap akhir
+		pekan dikarenakan letak pantai yang tidak begitu jauh dari kotan dan juga
+		transportasi ke pantai tersebut mudah bisa menggunakan Ojek ataupun Angkutan
+		Kampung. Bagi wisatawan luar yang ingin ke ke Pantai bosnik jangan takut.
+		Wisatawan dari Jakarta dapat menggunakan pesawat tujuan Biak. Biasanya pesawat
+		dari Jakarta transit ke Makasar kemudian lanjut ke Biak. Jangan takut untuk
+		penginapan di Biak sudah banyak tersedia. Selain Pantai bosnik masih banyak pesona
+		pantai yang disajikan Biak untuk para wisatawan seperti
+		pantai Sabah, Adoki, Yendidori, Barito, Waterbasis, Parai dan Wisata Taman Burung.</item>
+		<item>Pantai Amai yang sangat terkenal di Papua merupakan sebuah wisata pantai
+		yang memiliki air laut yang begitu jernih dan memiliki bentang pasir putih yang
+		sangat luas. Walaupun ombak berada pada waktu menggulung sangat besar akan tetapi
+		Anda tak akan pernah menemukan air yang keruh
+		karena itu sangat memungkinkan untuk Anda berenang dan mandi di sekitar pantai.</item>
+		<item>Di pulau ini terdapat rataan terumbu karang sepanjang perairan dan
+		pantai pulau yang disebut juga 9 reef flat yang terkenal di kalangan pecinta
+		diving. Andadapat mencapai tempat ini dengan menggunakan speedboat dari manokwari
+		atau menggunakan jalur darat sampai ke Ransiki dan naik longboat dari Ransiki.</item>
+		<item>Tugu Mac Arthur merupakan tugu bersejarah yang terletak di puncak
+		Ifar Gunung. Tugu yang berdiri sejak Perang Dunia II ini didirikan oleh
+		pasukan sekutu Amerika yang pada saat itu dipimpin oleh Jendral Mac Arthur.
+		Untuk bisa masuk ke Tugu Mac Arthur, kita harus melalui daerah pos penjagaan
+		Rindam XVIII/Trikora. Jika sedang ada latihan menembak,
+		anda tidak diperkenankan masuk mengunjungi tugu Mac Arthur ini. </item>
+    </string-array>
+    <string-array name="place_locationsPap">
+        <item>Papua Barat</item>
+        <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
+        <item>antara Kota Jayapura dan Kabupaten Jayapura, Papua</item>
+        <item>Kabupaten Paniai yang berada pada posisi pengunungan tengah
+		di pedalaman Propinsi Papua.</item>
+        <item>Papua</item>
+        <item>Papua</item>
+        <item>Makasar</item>
+        <item>Depapre, jayapura, papua</item>
+        <item>Teluk Wondama yang langsung berbatasan dengan Manokwari</item>
+        <item>Papua</item>
+    </string-array>
+    <array name="places_picturePap">
+        <item>@drawable/p1</item>
+        <item>@drawable/p2</item>
+        <item>@drawable/p3</item>
+        <item>@drawable/p4</item>
+        <item>@drawable/p5</item>
+        <item>@drawable/p6</item>
+        <item>@drawable/p7</item>
+        <item>@drawable/p8</item>
+        <item>@drawable/p9</item>
+        <item>@drawable/p10</item>
+    </array>
+
+    <!--TOP5-->
+    <string-array name="placesTop">
+        <item>Kawah Ijen</item>
+        <item>Bunaken</item>
+        <item>Borobudur</item>
+        <item>Raja Ampat</item>
+        <item>Kepulauan Seribu</item>
+    </string-array>
+    <string-array name="place_descTop">
+        <item>Kawah</item>
+        <item>Laut</item>
+        <item>Candi</item>
+        <item>Kepulauan</item>
+        <item>Kepulauan</item>
+    </string-array>
+    <string-array name="place_detailsTop">
+        <item>
+                Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak
+		        Gunung Ijen dengan tinggi 2.443 meter di atas permukaan laut dengan kedalaman danau
+		        200 meter dan luas kawah mencapai 5.466 Hektar. Danau kawah Ijen dikenal merupakan
+		        danau air sangat asam terbesar di dunia. Kawah Ijen berada dalam wilayah Cagar Alam
+		        Taman Wisata Ijen Kabupaten Bondowoso dan Kabupaten Banyuwangi, Jawa Timur. Setiap
+		        dini hari sekitar pukul 02.00 hingga 04.00, di sekitar kawah dapat dijumpai fenomena
+		        blue fire atau api biru, yang merupakan keunikan tempat ini, karena pemandangan
+		        alami ini hanya terjadi di dua tempat di dunia yaitu Islandia dan Ijen. Dari Kawah
+		        Ijen, kita dapat melihat pemandangan gunung lain yang ada di kompleks Pegunungan Ijen,
+		        di antaranya adalah puncak Gunung Merapi yang berada di timur Kawah Ijen,
+		        Gunung Raung, Gunung Suket, Gunung Rante, dan sebagainya.
+        </item>
+        <item>
+            Bunaken terletak di Teluk Manado. Taman laut Bunaken memiliki 20 titik penyelaman (dive spot) dengan kedalaman bervariasi
+		hingga 1.344 meter. Dari 20 titik selam itu, 12 titik selam di antaranya berada di sekitar Pulau Bunaken. Dua belas titik
+		penyelaman inilah yang paling kerap dikunjungi penyelam dan pecinta keindahan pemandangan bawah laut. Sebagian besar dari
+		12 titik penyelaman di Pulau Bunaken berjajar dari bagian tenggara hingga bagian barat laut pulau tersebut. Di wilayah
+		inilah terdapat underwater great walls, yang disebut juga hanging walls, atau dinding-dinding karang raksasa yang berdiri
+		vertikal dan melengkung ke atas. Dinding karang ini juga menjadi sumber makanan bagi ikan-ikan di perairan sekitar Pulau Bunaken.
+		Penginapan terkenal yakni Raja Laut Dive Resort, Bunaken Island Resort, Bastianos Dive Resort
+        </item>
+        <item>
+            Borobudur adalah salah satu dari keajaiban dunia. candi satu ini sangat
+            banyak dikunjungi oleh wisatawan. Candi ini banyak meyimpan cerit - cerita sejarah jaman dahulu.
+        </item>
+        <item>
+            Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang
+		berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua.
+		Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi
+		Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik
+		akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi
+		anggotanya dinamakan menurut empat pulau
+		terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.
+        </item>
+        <item>
+            Kabupaten Administrasi Kepulauan Seribu adalah sebuah kabupaten administrasi di Daerah
+            Khusus Ibukota Jakarta, Indonesia. Wilayahnya meliputi gugusan kepulauan berjumlah ± 110 Pulau
+            dan ±200 Gosong Karang. Letaknya berada di Utara Teluk Jakarta
+        </item>
+    </string-array>
+    <string-array name="place_locationsTop">
+        <item>Perbatasan antara Kabupaten Banyuwangi dan
+		    Kabupaten Bondowoso, Jawa Timur, Indonesia
+        </item>
+        <item>Manado</item>
+        <item>Jawa Tengah</item>
+        <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
+        <item>Jakarta</item>
+    </string-array>
+    <array name="places_pictureTop">
+        <item>@drawable/j1</item>
+        <item>@drawable/u7</item>
+        <item>@drawable/j9</item>
+        <item>@drawable/p2</item>
+        <item>@drawable/j2</item>
+    </array>
+</resources>
