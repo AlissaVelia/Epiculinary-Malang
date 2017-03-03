@@ -19,7 +19,7 @@ public class food3Activity extends AppCompatActivity implements food3adapter.IHo
     public static final String HOTEL = "hotel";
     ArrayList<food3> mList = new ArrayList<>();
     food3adapter mAdapter;
-    RecyclerView rvJawa;
+    RecyclerView rvfood3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,22 +28,22 @@ public class food3Activity extends AppCompatActivity implements food3adapter.IHo
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         setTitle("Jawa");
 
-        rvJawa = (RecyclerView) findViewById(R.id.recycler_view_jawa);
+        rvfood3 = (RecyclerView) findViewById(R.id.recycler_view_food3);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvJawa.setLayoutManager(layoutManager);
+        rvfood3.setLayoutManager(layoutManager);
         mAdapter = new food3adapter(this, mList);
-        rvJawa.setAdapter(mAdapter);
+        rvfood3.setAdapter(mAdapter);
 
         filData();
     }
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesJawa);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descJawa);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsJawa);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsJawa);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureJawa);
+        String[] arJudul = resources.getStringArray(R.array.places);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_desc);
+        String[] arDetail = resources.getStringArray(R.array.place_details);
+        String[] arLokasi = resources.getStringArray(R.array.place_locations);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picture);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);

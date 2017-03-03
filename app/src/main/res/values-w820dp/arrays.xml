@@ -112,18 +112,18 @@
         <item> Pantai Batu Bertupang </item>
         <item>Kotamadya Bengkulu, Propinsi Bengkulu</item>
     </string-array>
-    <!--<array name="places_picture">-->
-        <!--<item>@drawable/s1</item>-->
-        <!--<item>@drawable/s2</item>-->
-        <!--<item>@drawable/s3</item>-->
-        <!--<item>@drawable/s4</item>-->
-        <!--<item>@drawable/s5</item>-->
-        <!--<item>@drawable/s6</item>-->
-        <!--<item>@drawable/s7</item>-->
-        <!--<item>@drawable/s8</item>-->
-        <!--<item>@drawable/s9</item>-->
-        <!--<item>@drawable/s10</item>-->
-    <!--</array>-->
+    <array name="places_picture">
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
+    </array>
 
     <!--KALIMANTAN-->
     <string-array name="placesKali">

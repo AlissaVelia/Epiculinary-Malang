@@ -19,31 +19,31 @@ public class food2Activity extends AppCompatActivity implements food2adapter.IHo
     public static final String HOTEL = "hotel";
     ArrayList<food2> mList = new ArrayList<>();
     food2adapter mAdapter;
-    RecyclerView rvJawa;
+    RecyclerView rvfood2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food2);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        setTitle("Jawa");
+        setTitle("food2");
 
-        rvJawa = (RecyclerView) findViewById(R.id.recycler_view_jawa);
+        rvfood2 = (RecyclerView) findViewById(R.id.recycler_view_food2);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvJawa.setLayoutManager(layoutManager);
+        rvfood2.setLayoutManager(layoutManager);
         mAdapter = new food2adapter(this, mList);
-        rvJawa.setAdapter(mAdapter);
+        rvfood2.setAdapter(mAdapter);
 
         filData();
     }
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesJawa);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descJawa);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsJawa);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsJawa);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureJawa);
+        String[] arJudul = resources.getStringArray(R.array.placesKali);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descKali);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsKali);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsKali);
+        TypedArray a = resources.obtainTypedArray(R.array.places_pictureKali);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);
@@ -72,7 +72,7 @@ public class food2Activity extends AppCompatActivity implements food2adapter.IHo
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, DetailActivity3.class);
+        Intent intent = new Intent(this, DetailActivity2.class);
         intent.putExtra(HOTEL, mList.get(pos));
         startActivity(intent);
     }

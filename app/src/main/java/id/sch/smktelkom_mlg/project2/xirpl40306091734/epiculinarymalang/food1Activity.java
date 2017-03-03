@@ -15,24 +15,25 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.adapter.food1adapter;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.model.food1;
 
+
 public class food1Activity extends AppCompatActivity implements food1adapter.IHotelAdapter {
     public static final String HOTEL = "hotel";
     ArrayList<food1> mList = new ArrayList<>();
     food1adapter mAdapter;
-    RecyclerView rvJawa;
+    RecyclerView rvfood1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food1);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        setTitle("Jawa");
+        setTitle("food1");
 
-        rvJawa = (RecyclerView) findViewById(R.id.recycler_view_jawa);
+        rvfood1 = (RecyclerView) findViewById(R.id.recycler_view_food1);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvJawa.setLayoutManager(layoutManager);
+        rvfood1.setLayoutManager(layoutManager);
         mAdapter = new food1adapter(this, mList);
-        rvJawa.setAdapter(mAdapter);
+        rvfood1.setAdapter(mAdapter);
 
         filData();
     }
@@ -72,7 +73,7 @@ public class food1Activity extends AppCompatActivity implements food1adapter.IHo
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, DetailActivity3.class);
+        Intent intent = new Intent(this, DetailActivity.class);
         intent.putExtra(HOTEL, mList.get(pos));
         startActivity(intent);
     }

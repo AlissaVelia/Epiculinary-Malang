@@ -19,7 +19,7 @@ public class DetailActivity3 extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        food3 hotel = (food3) getIntent().getSerializableExtra(food1Activity.HOTEL);
+        food3 hotel = (food3) getIntent().getSerializableExtra(food3Activity.HOTEL);
         setTitle(hotel.judul);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(hotel.foto));

@@ -12,14 +12,14 @@ import android.view.MenuItem;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.adapter.food1adapter;
-import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.model.food1;
+import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.adapter.food5adapter;
+import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.model.food5;
 
-public class food5Activity extends AppCompatActivity implements food1adapter.IHotelAdapter {
+public class food5Activity extends AppCompatActivity implements food5adapter.IHotelAdapter {
     public static final String HOTEL = "hotel";
-    ArrayList<food1> mList = new ArrayList<>();
-    food1adapter mAdapter;
-    RecyclerView rvJawa;
+    ArrayList<food5> mList = new ArrayList<>();
+    food5adapter mAdapter;
+    RecyclerView rvfood5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,22 +28,22 @@ public class food5Activity extends AppCompatActivity implements food1adapter.IHo
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         setTitle("Jawa");
 
-        rvJawa = (RecyclerView) findViewById(R.id.recycler_view_jawa);
+        rvfood5 = (RecyclerView) findViewById(R.id.recycler_view_food5);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvJawa.setLayoutManager(layoutManager);
-        mAdapter = new food1adapter(this, mList);
-        rvJawa.setAdapter(mAdapter);
+        rvfood5.setLayoutManager(layoutManager);
+        mAdapter = new food5adapter(this, mList);
+        rvfood5.setAdapter(mAdapter);
 
         filData();
     }
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesJawa);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descJawa);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsJawa);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsJawa);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureJawa);
+        String[] arJudul = resources.getStringArray(R.array.places);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_desc);
+        String[] arDetail = resources.getStringArray(R.array.place_details);
+        String[] arLokasi = resources.getStringArray(R.array.place_locations);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picture);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);
@@ -55,7 +55,7 @@ public class food5Activity extends AppCompatActivity implements food1adapter.IHo
         a.recycle();
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new food1(arJudul[i], arDeskripsi[i], arDetail[i],
+            mList.add(new food5(arJudul[i], arDeskripsi[i], arDetail[i],
                     arLokasi[i], arFoto[i]));
         }
         mAdapter.notifyDataSetChanged();
@@ -72,7 +72,7 @@ public class food5Activity extends AppCompatActivity implements food1adapter.IHo
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, DetailActivity3.class);
+        Intent intent = new Intent(this, DetailActivity5.class);
         intent.putExtra(HOTEL, mList.get(pos));
         startActivity(intent);
     }

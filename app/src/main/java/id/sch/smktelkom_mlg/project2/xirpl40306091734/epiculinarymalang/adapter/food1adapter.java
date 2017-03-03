@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.R;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.model.food1;
 
+
 public class food1adapter extends RecyclerView.Adapter<food1adapter.ViewHolder> {
     ArrayList<food1> hotelList;
 
@@ -26,7 +27,7 @@ public class food1adapter extends RecyclerView.Adapter<food1adapter.ViewHolder> 
 
     @Override
     public food1adapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_food1, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_food5, parent, false);
         ViewHolder vh = new ViewHolder(v);
         return vh;
     }
@@ -71,4 +72,5 @@ public class food1adapter extends RecyclerView.Adapter<food1adapter.ViewHolder> 
         }
     }
 }
+
 

@@ -19,7 +19,7 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
     public static final String HOTEL = "hotel";
     ArrayList<food4> mList = new ArrayList<>();
     food4adapter mAdapter;
-    RecyclerView rvJawa;
+    RecyclerView rvfood4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,22 +28,22 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         setTitle("Jawa");
 
-        rvJawa = (RecyclerView) findViewById(R.id.recycler_view_jawa);
+        rvfood4 = (RecyclerView) findViewById(R.id.recycler_view_food4);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvJawa.setLayoutManager(layoutManager);
+        rvfood4.setLayoutManager(layoutManager);
         mAdapter = new food4adapter(this, mList);
-        rvJawa.setAdapter(mAdapter);
+        rvfood4.setAdapter(mAdapter);
 
         filData();
     }
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesJawa);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descJawa);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsJawa);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsJawa);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureJawa);
+        String[] arJudul = resources.getStringArray(R.array.placesSula);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descSula);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsSula);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsSula);
+        TypedArray a = resources.obtainTypedArray(R.array.places_pictureSula);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);
@@ -72,7 +72,7 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, DetailActivity3.class);
+        Intent intent = new Intent(this, DetailActivity4.class);
         intent.putExtra(HOTEL, mList.get(pos));
         startActivity(intent);
     }

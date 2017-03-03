@@ -1,8 +1,6 @@
 package id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang;
 
-/**
- * Created by USER on 11/02/2017.
- */
+
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -23,7 +21,7 @@ public class DetailActivity2 extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        food2 hotel = (food2) getIntent().getSerializableExtra(food1Activity.HOTEL);
+        food2 hotel = (food2) getIntent().getSerializableExtra(food2Activity.HOTEL);
         setTitle(hotel.judul);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(hotel.foto));

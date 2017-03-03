@@ -26,7 +26,7 @@ public class food2adapter extends RecyclerView.Adapter<food2adapter.ViewHolder> 
 
     @Override
     public food2adapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_food2, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_food5, parent, false);
         ViewHolder vh = new ViewHolder(v);
         return vh;
     }
@@ -37,6 +37,7 @@ public class food2adapter extends RecyclerView.Adapter<food2adapter.ViewHolder> 
         holder.tvJudul.setText(Food2.judul);
         holder.tvDeskripsi.setText(Food2.deskripsi);
         holder.ivFoto.setImageURI(Uri.parse(Food2.foto));
+
 
     }
 

@@ -5,9 +5,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by Rehan on 12/2/2016.
- */
+
 
 public class RecyclerViewHolderAb extends RecyclerView.ViewHolder {
     // ViewHolder akan mendeskripisikan item view yang ditempatkan di dalam RecyclerView.
