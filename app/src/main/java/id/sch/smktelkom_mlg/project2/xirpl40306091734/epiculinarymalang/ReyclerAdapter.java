@@ -31,7 +31,7 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerViewHolder> {
             RecyclerViewHolder vholder = (RecyclerViewHolder) v.getTag();
             int position = vholder.getPosition();
             if (position == 0 && position < getItemCount()) {
-                Intent intent = new Intent(context, food5Activity.class);
+                Intent intent = new Intent(context, food1Activity.class);
                 context.startActivity(intent);
             }
             if (position == 1 && position < getItemCount()) {
@@ -39,15 +39,15 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerViewHolder> {
                 context.startActivity(intent);
             }
             if (position == 2 && position < getItemCount()) {
-                Intent intent = new Intent(context, food4Activity.class);
+                Intent intent = new Intent(context, food3Activity.class);
                 context.startActivity(intent);
             }
             if (position == 3 && position < getItemCount()) {
-                Intent intent = new Intent(context, food1Activity.class);
+                Intent intent = new Intent(context, food4Activity.class);
                 context.startActivity(intent);
             }
             if (position == 4 && position < getItemCount()) {
-                Intent intent = new Intent(context, food3Activity.class);
+                Intent intent = new Intent(context, food5Activity.class);
                 context.startActivity(intent);
             }
         }

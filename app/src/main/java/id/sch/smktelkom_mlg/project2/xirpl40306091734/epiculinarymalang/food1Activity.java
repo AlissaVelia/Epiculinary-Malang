@@ -15,7 +15,6 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.adapter.food1adapter;
 import id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang.model.food1;
 
-
 public class food1Activity extends AppCompatActivity implements food1adapter.IHotelAdapter {
     public static final String HOTEL = "hotel";
     ArrayList<food1> mList = new ArrayList<>();
@@ -40,11 +39,11 @@ public class food1Activity extends AppCompatActivity implements food1adapter.IHo
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesJawa);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descJawa);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsJawa);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsJawa);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureJawa);
+        String[] arJudul = resources.getStringArray(R.array.placesfood1);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descfood1);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsfood1);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsfood1);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picturefood1);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);

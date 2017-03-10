@@ -26,7 +26,7 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food4);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        setTitle("Jawa");
+        setTitle("food4");
 
         rvfood4 = (RecyclerView) findViewById(R.id.recycler_view_food4);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
@@ -39,11 +39,11 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesSula);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descSula);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsSula);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsSula);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureSula);
+        String[] arJudul = resources.getStringArray(R.array.placesfood4);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descfood4);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsfood4);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsfood4);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picturefood4);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);

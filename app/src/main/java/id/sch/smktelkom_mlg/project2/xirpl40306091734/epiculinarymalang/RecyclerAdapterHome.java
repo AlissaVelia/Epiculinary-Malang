@@ -38,22 +38,22 @@ public class RecyclerAdapterHome extends RecyclerView.Adapter<RecyclerViewHolder
                 context.startActivity(intent);
             }
             if (position == 1 && position < getItemCount()) {
-                Intent intent = new Intent(context, food4Activity.class)
+                Intent intent = new Intent(context, food2Activity.class)
                         .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
             }
             if (position == 2 && position < getItemCount()) {
-                Intent intent = new Intent(context, food1Activity.class)
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                context.startActivity(intent);
-            }
-            if (position == 3 && position < getItemCount()) {
                 Intent intent = new Intent(context, food3Activity.class)
                         .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
             }
+            if (position == 3 && position < getItemCount()) {
+                Intent intent = new Intent(context, food4Activity.class)
+                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                context.startActivity(intent);
+            }
             if (position == 4 && position < getItemCount()) {
-                Intent intent = new Intent(context, food1Activity.class)
+                Intent intent = new Intent(context, food5Activity.class)
                         .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
             }

@@ -26,7 +26,7 @@ public class food5Activity extends AppCompatActivity implements food5adapter.IHo
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food5);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        setTitle("Jawa");
+        setTitle("food5");
 
         rvfood5 = (RecyclerView) findViewById(R.id.recycler_view_food5);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
@@ -39,11 +39,11 @@ public class food5Activity extends AppCompatActivity implements food5adapter.IHo
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.places);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_desc);
-        String[] arDetail = resources.getStringArray(R.array.place_details);
-        String[] arLokasi = resources.getStringArray(R.array.place_locations);
-        TypedArray a = resources.obtainTypedArray(R.array.places_picture);
+        String[] arJudul = resources.getStringArray(R.array.placesfood5);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descfood5);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsfood5);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsfood5);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picturefood5);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);

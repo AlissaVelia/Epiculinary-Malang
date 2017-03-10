@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!--SUMATRA-->
 <resources>
-    <string-array name="places">
+    <string-array name="placesfood4">
         <item>Danau Maninjau</item>
         <item>Lembah Harau</item>
         <item>Ombak Bono</item>
@@ -12,7 +12,7 @@
         <item>Pantai Batu Bertupang</item>
         <item>Pantai Panjang</item>
     </string-array>
-    <string-array name="place_desc">
+    <string-array name="place_descfood4">
         <item>Danau</item>
         <item>Lembah</item>
         <item>Sungai</item>
@@ -24,7 +24,7 @@
         <item>Pantai</item>
         <item>Pantai</item>
     </string-array>
-    <string-array name="place_details">
+    <string-array name="place_detailsfood4">
         <item>Danau Maninjau terletak di kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat. Danau
 		ini tercatat sebagai danau terluas kesebelas di Indonesia.
 		Sedangkan di Sumatera Barat, Maninjau merupakan danau terluas kedua setelah Danau Singkarak
@@ -98,7 +98,7 @@
 		kelapa, dan ini tidak dijumpai di Pantai Panjang. Penginapan terkenal Nala sea side hotel,Amaris hotel Bengkulu,pasir putih resort.
 		</item>
     </string-array>
-    <string-array name="place_locations">
+    <string-array name="place_locationsfood4">
         <item> kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat</item>
         <item>kota Payakumbuh di kabupaten Limapuluh Koto, provinsi Sumatera Barat</item>
         <item>Sungai Kampar</item>
@@ -112,7 +112,7 @@
         <item> Pantai Batu Bertupang </item>
         <item>Kotamadya Bengkulu, Propinsi Bengkulu</item>
     </string-array>
-    <array name="places_picture">
+    <array name="places_picturefood4">
         <item>@drawable/s1</item>
         <item>@drawable/s2</item>
         <item>@drawable/s3</item>
@@ -126,7 +126,7 @@
     </array>
 
     <!--KALIMANTAN-->
-    <string-array name="placesKali">
+    <string-array name="placesfood2">
         <item>Danau Sentarum</item>
         <item>Pantai Melawai</item>
         <item>Tanjung Puting</item>
@@ -138,7 +138,7 @@
         <item>Sungai Mahakam</item>
         <item>Kecamatan Lokasado</item>
     </string-array>
-    <string-array name="place_descKali">
+    <string-array name="place_descfood2">
         <item>Danau</item>
         <item>Pantai</item>
         <item>Pantai</item>
@@ -150,7 +150,7 @@
         <item>Sungai</item>
         <item>Kecamatan</item>
     </string-array>
-    <string-array name="place_detailsKali">
+    <string-array name="place_detailsfood2">
         <item> Danau Sentarum terletak di Kapuas Hulu, Kalimantan Barat Danau ini dipenuhi air selama 10 bulan setiap tahunnya, dan sisanya
 		akan surut, membentuk kolam-kolam kecil yang berisi ikan-ikan kecil. Saat kemarau, Air Danau Sentarum memasok setengah dari aliran
 		air Sungai Kapuas. Luas keseluruhan danau ini 132.000 hektarePenginapan Permata Bunda, Penginapan Aman Sentosa, Penginapan Marisa
@@ -205,7 +205,7 @@
 		terletak di pegunungan Meratus merupakan salah satu daerah wisata alam dan atraksi budaya masyarakat Dayak Bukit.
 		Penginapan terkenal yakni Hotel Wisma Duta, Hotel Rakat Mufakat, Amandit Resort.</item>
     </string-array>
-    <string-array name="place_locationsKali">
+    <string-array name="place_locationsfood2">
         <item> Kapuas Hulu, Kalimantan Barat</item>
         <item>Pelabuhan Semayang, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur</item>
         <item>Kecamatan Hanau, Danau Sembuluh, dan Seruyan Hilir di Kabupaten Seruyan, KalTeng</item>
@@ -218,7 +218,7 @@
         <item> Kalimantan (Borneo) Timur</item>
         <item>Kabupaten Hulu Sungai Selatan, Kalimantan Selatan</item>
     </string-array>
-    <array name="places_pictureKali">
+    <array name="places_picturefood2">
         <item>@drawable/k1</item>
         <item>@drawable/k2</item>
         <item>@drawable/k3</item>
@@ -232,7 +232,7 @@
     </array>
 
     <!--SULAWESI-->
-    <string-array name="placesSula">
+    <string-array name="placesfood3">
         <item>Taman Nasional Lindu</item>
         <item>Tanah Toraja</item>
         <item>Tentena</item>
@@ -244,7 +244,7 @@
         <item>Wakatobi</item>
         <item>Makassar</item>
     </string-array>
-    <string-array name="place_descSula">
+    <string-array name="place_descfood3">
         <item>Taman nasional</item>
         <item>Desa</item>
         <item>Tentena</item>
@@ -256,7 +256,7 @@
         <item>Wakatobi</item>
         <item>Kota</item>
     </string-array>
-    <string-array name="place_detailsSula">
+    <string-array name="place_detailsfood3">
         <item>Taman Nasional Lore Lindu memiliki fauna dan flora endemik Sulawesi serta panorama alam yang menarik karena
 		terletak di garis Wallace yang merupakan wilayah peralihan antara zona Asia dan Australia.
 		Taman Nasional Lore Lindu yang terletak di selatan kabupaten Donggala dan bagian barat kabupaten Poso menjadi daerah tangkapan
@@ -308,7 +308,7 @@
 		Selat Makassar di sebelah barat, Kabupaten Kepulauan Pangkajene di sebelah utara, Kabupaten Marosdi sebelah timur dan Kabupaten
 		Gowa di sebelah selatan.</item>
     </string-array>
-    <string-array name="place_locationsSula">
+    <string-array name="place_locationsfood3">
         <item> selatan kabupaten Donggala dan bagian barat kabupaten Poso</item>
         <item>Provinsi Sulawesi Selatan</item>
         <item>Kabupaten Poso, Sulawesi Tengah</item>
@@ -320,7 +320,7 @@
         <item> propinsi sulawesi tenggara </item>
         <item>Kota Makassar</item>
     </string-array>
-    <array name="places_pictureSula">
+    <array name="places_picturefood3">
         <item>@drawable/u1</item>
         <item>@drawable/u2</item>
         <item>@drawable/u3</item>
@@ -334,7 +334,7 @@
     </array>
 
     <!--JAWA-->
-    <string-array name="placesJawa">
+    <string-array name="placesfood1">
         <item>Hutan Mangrove</item>
         <item>Kepulauan Seribu</item>
         <item>Desa Sawarna</item>
@@ -347,7 +347,7 @@
         <item>Kawah Ijen</item>
         <item>Lembang</item>
     </string-array>
-    <string-array name="place_descJawa">
+    <string-array name="place_descfood1">
         <item>Pantai</item>
         <item>Kepulauan</item>
         <item>Desa Wisata</item>
@@ -360,7 +360,7 @@
         <item>Kawah</item>
         <item>Desa Wisata</item>
     </string-array>
-    <string-array name="place_detailsJawa">
+    <string-array name="place_detailsfood1">
             <item>
                 Terdapat pada Pantai Indah Kapuk, tepatnya di Jakarta. Memiliki kawasan yang besar dan Indah.
 		        Dimanjakan dengan jalan setapak yang terdapt di tengah-tengah hutan mangrove tersebut.
@@ -438,7 +438,7 @@
 		        juga banyak sekali destinasi wisata yang tak kalah dengan wisata – wisata lainnya.
             </item>
     </string-array>
-    <string-array name="place_locationsJawa">
+    <string-array name="place_locationsfood1">
         <item>Pantai Indah Kapuk, Jakarta</item>
         <item>Jakarta</item>
             <item>Sekitar 150 Km dari Rangkasbitung dan berada di desa
@@ -454,7 +454,7 @@
 		    Kabupaten Bondowoso, Jawa Timur, Indonesia</item>
         <item>Jawa Barat</item>
     </string-array>
-    <array name="places_pictureJawa">
+    <array name="places_picturefood1">
         <item>@drawable/j1</item>
         <item>@drawable/j2</item>
         <item>@drawable/j3</item>
@@ -469,7 +469,7 @@
     </array>
 
     <!--PAPUA-->
-    <string-array name="placesPap">
+    <string-array name="placesfood5">
         <item>Teluk Cendrawasih</item>
         <item>Raja Ampat</item>
         <item>Danau Sentani</item>
@@ -481,7 +481,7 @@
         <item>Pulau Lumberpon</item>
         <item>Tugu Macarthur</item>
     </string-array>
-    <string-array name="place_descPap">
+    <string-array name="place_descfood5">
         <item>Taman Nasional</item>
         <item>Kepulauan</item>
         <item>Danau</item>
@@ -493,7 +493,7 @@
         <item>Pulau</item>
         <item>Wisata Sejarah</item>
     </string-array>
-    <string-array name="place_detailsPap">
+    <string-array name="place_detailsfood5">
         <item>Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut
 		terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9 Persen),
 		daratan pulau-pulau (3,8 Persen), terumbu karang (5,5 Persen), dan perairan lautan (89,8 Persen).
@@ -551,7 +551,7 @@
 		Rindam XVIII/Trikora. Jika sedang ada latihan menembak,
 		anda tidak diperkenankan masuk mengunjungi tugu Mac Arthur ini. </item>
     </string-array>
-    <string-array name="place_locationsPap">
+    <string-array name="place_locationsfood5">
         <item>Papua Barat</item>
         <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
         <item>antara Kota Jayapura dan Kabupaten Jayapura, Papua</item>
@@ -564,7 +564,7 @@
         <item>Teluk Wondama yang langsung berbatasan dengan Manokwari</item>
         <item>Papua</item>
     </string-array>
-    <array name="places_picturePap">
+    <array name="places_picturefood5">
         <item>@drawable/p1</item>
         <item>@drawable/p2</item>
         <item>@drawable/p3</item>

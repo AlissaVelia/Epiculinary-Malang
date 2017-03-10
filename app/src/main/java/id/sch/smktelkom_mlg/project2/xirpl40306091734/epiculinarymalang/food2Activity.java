@@ -39,11 +39,11 @@ public class food2Activity extends AppCompatActivity implements food2adapter.IHo
 
     private void filData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.placesKali);
-        String[] arDeskripsi = resources.getStringArray(R.array.place_descKali);
-        String[] arDetail = resources.getStringArray(R.array.place_detailsKali);
-        String[] arLokasi = resources.getStringArray(R.array.place_locationsKali);
-        TypedArray a = resources.obtainTypedArray(R.array.places_pictureKali);
+        String[] arJudul = resources.getStringArray(R.array.placesfood2);
+        String[] arDeskripsi = resources.getStringArray(R.array.place_descfood2);
+        String[] arDetail = resources.getStringArray(R.array.place_detailsfood2);
+        String[] arLokasi = resources.getStringArray(R.array.place_locationsfood2);
+        TypedArray a = resources.obtainTypedArray(R.array.places_picturefood2);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {
             int id = a.getResourceId(i, 0);
