@@ -17,10 +17,8 @@ public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb
 
     private final Context context;
 
-    String[] name = {"Alfan Cahyo Wicaksono", "Galbie Elinour", "Multazam Arroihan G", "Septy Nur Aulia D"};
-    String[] desc = {"XIRPL5 | 3", "XIRPL5 | 12", "XIRPL5 | 21", "XIRPL5 | 30"};
-    int[] img = {R.drawable.mch1, R.drawable.mch2, R.drawable.mch3, R.drawable.mch4};
-    // menampilkan list item dalam bentuk text dengan tipe data string dengan variable name
+    String[] name = {"ve", "ve", "ve", "ve"};
+    int[] img = {R.drawable.ricol, R.drawable.ricol, R.drawable.ricol, R.drawable.ricol};
 
     LayoutInflater inflater;
     View.OnClickListener clickListener = new View.OnClickListener() {
@@ -61,7 +59,6 @@ public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb
         holder.tv1A.setText(name[position]);
         holder.tv1A.setOnClickListener(clickListener);
         holder.tv1A.setTag(holder);
-        holder.tv2A.setText(desc[position]);
         holder.imageViewA.setOnClickListener(clickListener);
         holder.imageViewA.setTag(holder);
         holder.imageViewA.setImageResource(img[position]);

@@ -17,10 +17,10 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerViewHolder> {
 
     private final Context context;
 
-    String[] name = {"Sumatra", "Kalimantan", "Sulawesi", "Jawa",
-            "Papua"};
+    String[] name = {"Appetizer", "Main Course", "Dessert", "Beverage",
+            "Street Food"};
     String[] desc = {"20 Wisata", "10 Wisata", "11 Wisata", "10 Wisata", "10 Wisata"};
-    int[] img = {R.drawable.a1, R.drawable.a2, R.drawable.a3, R.drawable.a4, R.drawable.a5};
+    int[] img = {R.drawable.lp, R.drawable.lp3, R.drawable.lp4, R.drawable.lp2, R.drawable.lp5};
     // menampilkan list item dalam bentuk text dengan tipe data string dengan variable name
 
     LayoutInflater inflater;
