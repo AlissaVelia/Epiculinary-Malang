@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--SUFOOD4-->
+<!--FOOD4/BEVERAGE-->
 <resources>
     <string-array name="placesfood4">
         <item>Danau Maninjau</item>
@@ -126,18 +126,18 @@
         <item>@drawable/s10</item>
     </array>
 
-    <!--FOOD2-->
+    <!--FOOD2/MAINCOURSE-->
     <string-array name="placesfood2">
-        <item>Danau Sentarum</item>
-        <item>Pantai Melawai</item>
-        <item>Tanjung Puting</item>
-        <item>Pasar Terapung Muara Kuin </item>
-        <item>Jembatan Tajuk di Bukit Bangkirai</item>
-        <item>Pulau Kembang</item>
-        <item>Pulau Beras Basah</item>
-        <item>Bukit Kelam</item>
-        <item>Sungai Mahakam</item>
-        <item>Kecamatan Lokasado</item>
+        <item>Jawara resto</item>
+        <item>Leko</item>
+        <item>Wellduck bebek gobar</item>
+        <item>Upnormal</item>
+        <item>Saboten</item>
+        <item>Taman Indie River View Resto</item>
+        <item>Sambel jungle</item>
+        <item>Madam wang</item>
+        <item>Rumah makan cairo</item>
+        <item>Rumah oppa kitchen and longue</item>
     </string-array>
     <string-array name="place_descfood2">
         <item>Danau</item>
@@ -232,17 +232,17 @@
         <item>@drawable/k10</item>
     </array>
 
-    <!--FOOD3-->
+    <!--FOOD3/DESSERT-->
     <string-array name="placesfood3">
-        <item>Taman Nasional Lindu</item>
-        <item>Tanah Toraja</item>
-        <item>Tentena</item>
-        <item>Kepulauan Togian</item>
-        <item>Tomohon</item>
-        <item>Taman Nasional Tangkuku</item>
-        <item>Bunaken</item>
-        <item>Manado</item>
-        <item>Wakatobi</item>
+        <item>Uniccone</item>
+        <item>Colony Café</item>
+        <item>Bunchbead</item>
+        <item>Bukit Delight</item>
+        <item>Grand Canyon Café and Resto</item>
+        <item>Volkswaffle Steatery</item>
+        <item>Café Momochi</item>
+        <item>Akalpa Café</item>
+        <item>Mocha Maco</item>
         <item>Makassar</item>
     </string-array>
     <string-array name="place_descfood3">
@@ -334,7 +334,7 @@
         <item>@drawable/u10</item>
     </array>
 
-    <!--FOOD1-->
+    <!--FOOD1/APPETIZER-->
     <string-array name="placesfood1">
         <item>Burger Buto</item>
         <item>Racel Risol</item>
@@ -423,7 +423,7 @@
         <item>@drawable/j11</item>
     </array>
 
-    <!--FOOD5-->
+    <!--FOOD5/STREETFOOD-->
     <string-array name="placesfood5">
         <item>Teluk Cendrawasih</item>
         <item>Raja Ampat</item>
@@ -534,11 +534,11 @@
 
     <!--TOP5-->
     <string-array name="placesTop">
-        <item>Kawah Ijen</item>
-        <item>Bunaken</item>
-        <item>Borobudur</item>
-        <item>Raja Ampat</item>
-        <item>Kepulauan Seribu</item>
+        <item>Appetizern</item>
+        <item>Main Course</item>
+        <item>Dessert</item>
+        <item>Beverage</item>
+        <item>Street Food</item>
     </string-array>
     <string-array name="place_descTop">
         <item>Kawah</item>
