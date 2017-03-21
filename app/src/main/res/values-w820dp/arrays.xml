@@ -114,16 +114,16 @@
         <item>Kotamadya Bengkulu, Propinsi Bengkulu</item>
     </string-array>
     <array name="places_picturefood4">
-        <item>@drawable/s1</item>
-        <item>@drawable/s2</item>
-        <item>@drawable/s3</item>
-        <item>@drawable/s4</item>
-        <item>@drawable/s5</item>
-        <item>@drawable/s6</item>
-        <item>@drawable/s7</item>
-        <item>@drawable/s8</item>
-        <item>@drawable/s9</item>
-        <item>@drawable/s10</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp4</item>
     </array>
 
     <!--FOOD2/MAINCOURSE-->
@@ -220,16 +220,16 @@
         <item>Kabupaten Hulu Sungai Selatan, Kalimantan Selatan</item>
     </string-array>
     <array name="places_picturefood2">
-        <item>@drawable/k1</item>
-        <item>@drawable/k2</item>
-        <item>@drawable/k3</item>
-        <item>@drawable/k4</item>
-        <item>@drawable/k5</item>
-        <item>@drawable/k6</item>
-        <item>@drawable/k7</item>
-        <item>@drawable/k8</item>
-        <item>@drawable/k9</item>
-        <item>@drawable/k10</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp2</item>
     </array>
 
     <!--FOOD3/DESSERT-->
@@ -322,16 +322,16 @@
         <item>Kota Makassar</item>
     </string-array>
     <array name="places_picturefood3">
-        <item>@drawable/u1</item>
-        <item>@drawable/u2</item>
-        <item>@drawable/u3</item>
-        <item>@drawable/u4</item>
-        <item>@drawable/u5</item>
-        <item>@drawable/u6</item>
-        <item>@drawable/u7</item>
-        <item>@drawable/u8</item>
-        <item>@drawable/u9</item>
-        <item>@drawable/u10</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp3</item>
     </array>
 
     <!--FOOD1/APPETIZER-->
@@ -410,17 +410,17 @@
 
     </string-array>
     <array name="places_picturefood1">
-        <item>@drawable/j1</item>
-        <item>@drawable/j2</item>
-        <item>@drawable/j3</item>
-        <item>@drawable/j4</item>
-        <item>@drawable/j5</item>
-        <item>@drawable/j6</item>
-        <item>@drawable/j7</item>
-        <item>@drawable/j8</item>
-        <item>@drawable/j9</item>
-        <item>@drawable/j10</item>
-        <item>@drawable/j11</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp</item>
     </array>
 
     <!--FOOD5/STREETFOOD-->
@@ -520,16 +520,16 @@
         <item>Papua</item>
     </string-array>
     <array name="places_picturefood5">
-        <item>@drawable/p1</item>
-        <item>@drawable/p2</item>
-        <item>@drawable/p3</item>
-        <item>@drawable/p4</item>
-        <item>@drawable/p5</item>
-        <item>@drawable/p6</item>
-        <item>@drawable/p7</item>
-        <item>@drawable/p8</item>
-        <item>@drawable/p9</item>
-        <item>@drawable/p10</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
+        <item>@drawable/lp5</item>
     </array>
 
     <!--TOP5-->
@@ -599,10 +599,10 @@
         <item>Jakarta</item>
     </string-array>
     <array name="places_pictureTop">
-        <item>@drawable/j1</item>
-        <item>@drawable/u7</item>
-        <item>@drawable/j9</item>
-        <item>@drawable/p2</item>
-        <item>@drawable/j2</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/lp2</item>
+        <item>@drawable/lp3</item>
+        <item>@drawable/lp4</item>
+        <item>@drawable/lp5</item>
     </array>
 </resources>
