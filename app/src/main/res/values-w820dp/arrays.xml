@@ -2,16 +2,16 @@
 <!--FOOD4/BEVERAGE-->
 <resources>
     <string-array name="placesfood4">
-        <item>Danau Maninjau</item>
-        <item>Lembah Harau</item>
-        <item>Ombak Bono</item>
-        <item>Air Terjun Bidadari</item>
-        <item>Gunung Sibayak</item>
-        <item>Danau Toba</item>
-        <item>Bukit Barisan</item>
-        <item>Pantai Selat Baru</item>
-        <item>Pantai Batu Bertupang</item>
-        <item>Pantai Panjang</item>
+        <item>Orem-orem</item>
+        <item>Bakso Bakar</item>
+        <item>Cwie Mie</item>
+        <item>Rawon</item>
+        <item>Sego Goreng Mawut</item>
+        <item>Bakso</item>
+        <item>Tahu Campur</item>
+        <item>Mendol</item>
+        <item>Angsle</item>
+        <item>Es Durian Dempo</item>
     </string-array>
     <string-array name="place_descfood4">
         <item>Danau</item>
@@ -26,92 +26,49 @@
         <item>Pantai</item>
     </string-array>
     <string-array name="place_detailsfood4">
-        <item>Danau Maninjau terletak di kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat. Danau
-		ini tercatat sebagai danau terluas kesebelas di Indonesia.
-		Sedangkan di Sumatera Barat, Maninjau merupakan danau terluas kedua setelah Danau Singkarak
-		yang memiliki luas 129,69 km² yang berada di dua kabupaten yaitu Kabupaten Tanah Datar
-		dan Kabupaten Solok. Penginapan yang terkenal yakni Nuansa Maninjau Resort, Pasir Panjang Permai, Maninjau Indah.
+        <item>
+        Mungkin untuk sebagian orang nama ini tergolong cukup aneh. Orem-orem, makanan yang disajikan dengan ketupat, tempe yang dipotong kecil-kecil dan telur asin diatasnya ini memiliki rasa yang lezat sekali. Memang tampaknya terlihat sepintas seperti opor atau sayur lodeh, tapi makanan ini disajikan dengan kuah kaldu ayam yang sangat kental.
         </item>
         <item>
-		Lembah Harau adalah sebuah ngarai dekat kota Payakumbuh di kabupaten Limapuluh Koto, provinsi Sumatera Barat.
-		Lembah Harau diapit dua bukit cadas terjal dengan ketinggian mencapai 150 meter. Lembah Harau .dilingkungi batu
-		pasir yang terjal berwarna-warni, dengan ketinggian 100 sampai 500 meter. Topografi Cagar Alam Harau adalah berbukit-bukit
-		dan bergelombang. Tinggi dari permukaan laut adalah 500 sampai 850 meter, bukit tersebut antara lain adalah Bukit Air Putih,
-		Bukit Jambu, Bukit Singkarak dan Bukit Tarantang. Penginapan yang terkenal yakni abdi homestay, novi homestay lembah harau
+		Bakso Bakar ini juga merupakan salah satu makanan khas malang yang selalu diburu oleh para wisatawan. Bakso Bakar ini sama seperti pada bakso yang sering kamu makan sebelumnya, yang membedakan hanyalah bakso ini dilumuri dengan saus, kecap dan bumbu-bumbuan yang membuat rasanya semakin lezat. Jika tengah dibakar, bakso ini akan mengeluarkan aroma yang sudah tercium kelezatannya.
         </item>
         <item>
-		Ombak Bono Sungai Kampar merupakan suatu fenomena alam akibat adanya pertemuan arus sungai menuju laut dan arus laut yang
-		masuk ke sungai akibat pasang.Biasanya ombak atau gelombang hanya terjadi di tepi pantai atau laut ataupun danau yang luas
-		akibat perubahan arus air dan angin. Ombak yang berukuran cukup besar banyak dimanfaatkan untuk bermain selancar.
-		Maka, jika melihat orang berselancar di pantai adalah suatu hal yang sudah biasa. Tetapi melihat orang berselancar di arus
-		sungai adalah suatu hal yang luar biasa.Bono terbesar biasanya terjadi ketika musim penghujan dimana debit air Sungai Kampar
-		cukup besar yaitu sekitar bulan November dan Desember.
+		Sekilas Cwie Mie Malang ini terlihat mirip dengan mie ayam biasa. Yang membedakan Cwie Mie adalah daging ayam yang disajikan lebih halus menyerupai abon dan rasanya pun sangat unik. Kalau biasanya Mie Ayam disajikan dengan sawi dan pangsit goreng diatasnya, beda dengan Cwie Mie yang menggunakan selada segar dan mangkuk yang terbuat dari pangsit. Kebayangkan kelezatannya seperti apa?
         </item>
-
         <item>
-		Nama lain Air Terjun Bidadari adalah Ayek Asam menurut warga setempat. Air terjun ini terletak di Desa Karang Dalam, Kecamatan Pulau Pinang, Kabupaten Lahat,
-		Sumatera Selatan yang bermuara ke Sungai Lematang ini
-		memiliki ketinggian sekitar 30 m dengan lebar atas sekitar 10 m dan bawah sekitar 15 m. Di sekitar lokasi Air Terjun tersebut,
-		ada sekitar 6 air terjun lagi dan 3 diantaranya adalah Air Terjun Bujang Gadis dengan ketinggian sekitar 4 m, Air Terjun Sumbing
-		dengan ketinggian sekitar 35 m dan Air Terjun Naga dengan ketinggian sekitar 10 m. Ketiga air terjun ini dapat dinikmati dengan
-		menyusuri aliran dari Air Terjun Bidadari hingga ke bawah Air Terjun Naga.
+		Kalau kuliner yang satu ini tentunya sudah tidak asing lagi di telinga kita. Makanan khas malang yang bernama Rawon ini tentunya bisa kita temui dimana saja, terutama di Jakarta. Sup daging sapi yang disajikan dengan kuah berwarna hitam dan telur asin ini memiliki cita rasa yang sangat unik dan lezat. Kuahnya saja sudah bisa membuat kamu jatuh cinta dengan citarasa alami yang membuat kamu selalu akan kangen dengan makanan khas Malang ini.
         </item>
-
         <item>
-		Gunung Sibayak adalah kelas gunung berapi aktif yang memiliki uap panas. Selain itu, letusan yang terjadi beberapa waktu
-		lalu cukup mengguncang bebatuan di puncak gunung. Kondisi yang cukup “tidak beraturan” pada bebatuan puncak nya ini,
-		justru menjadi keunikan tersendiri yang menarik wisatawan yang senang menguji adrenalinnya untuk berusaha menaklukkan
-		Gunung Sibayak hingga mencapai puncaknya. Pemandangan matahari terbit dari puncak gunung akan membuat anda terperangah.
-		Kilau kemunculan sinar matahari akan menerpa wajah Anda memberikan suasana hangat, menggantikan hawa dingin yang semalaman
-		menyelimuti perjalanan. Penginapan terkenal yakni Hotel Sibayak International, Mikie Holiday Resort.
+		Namanya memang cukup aneh dan sedikit unik. Tapi, siapa yang menyangka kalau Sego Goreng Mawut ini memiliki rasa yang lezat sekali. Mungkin buat kamu para pecinta nasi goreng, tentunya sudah pernah merasakan makanan yang satu ini. Mengapa bisa disebut dengan Mawut, karena makanan yang berasal dari nasi goreng dan mie goreng ini dipadukan menjadi satu dengan citarasa yang sangat lezat. Sama seperti pada nasi goreng seperti biasanya, yang disajikan dengan sayur dan acar di atasnya. Yumm, jadi lapar ya! 
         </item>
-
         <item>
-		Danau Toba adalah sebuah danau tekto-vulkanik dengan ukuran panjang 100 kilometer dan lebar 30 kilometer yang terletak di Provinsi Sumatera
-		Utara, Indonesia. Danau ini merupakan danau terbesar di Indonesia dan Asia Tenggara. Di tengah danau ini terdapat sebuah pulau
-		vulkanik bernama Pulau Samosir. Penginapan terkenal yakni Hotel Niagara Parapat , Danau Toba International Cottage Parapat , Inna Parapat.
+		Wah Bakso yang satu ini juga tentunya sudah tidak asing lagi. Hampir di setiap sudut Jakarta kamu bisa menemukan Bakso Malang. Tapi jangan salah lho! Kalau kamu mencicipi bakso ini langsung berada di Malang, tentunya sensasi dan rasanya akan sangat berbeda dengan yang pernah kamu cicipi sebelumnya.
 		</item>
-
 		<item>
-		Taman nasional bukit barisan adalah sebuah taman nasional yang ditujukan untuk melindungi hutan hujan tropis pulau Sumatra beserta kekayaan alam hayati yang dimilikinya.
-		UNESCO menjadikan Taman Nasional Bukit Barisan Selatan sebagai Warisan Dunia. Bukit Barisan Selatan dinyatakan sebagai Cagar Alam
-		Suaka Margasatwa pada tahun 1935 dan menjadi Taman Nasional pada tahun 1982. Pada awalnya ukuran taman adalah seluas 356.800 hektare .
-		Tetapi luas taman saat ini yang dihitung dengan menggunakan GIS kurang-lebih sebesar 324.000 Ha.
+		Pasti makanan yang satu ini sedikit asing di telinga dan di lidah kamu. Tahu Campur, merupakan makanan khas Malang yang tidak boleh terlewatkan jika sudah berada di kota apel ini. Biasanya makanan ini disajikan dengan beberapa bahan tambahan seperti, sop daging sapi yang lezat, perkedel singkong, taoge segar, selada air, mie kuning dan tidak ketinggalan Tahu yang dicampurkan di dalamnya. Pasti kamu sudah bisa kebayang dong kelezatannya seperti apa?
 		</item>
-
 		<item>
-		Pantai Selat Baru merupakan pantai unggulan dan juga pantai terindah di Bengkalis, Nama Pantai Selat Baru ini diambil dari
-		nama desa dimana pantai ini berada, Desa Selat Baru, yang juga menjadi Ibukota Kecamatan Bantan. Pemerintah Kabupaten Bengkalis telah
-		menjadikan pantai tersebut sebagai salah satu objek wisata andalan.Penginapan terkenal yakni Serela legian hotel, katamaran resort, atanaya by century park.
+		Sekilas terlihat seperti Combro. Tapi ternyata Mendol ini terbuat dari kedelai yang merupakan makanan campuran dari tempe. Makanan ini dicampur dengan berbagai macam bumbu lain, seperti kunyit, bawang merah, bawang putih, dan bumbu lainnya. Lalu makanan ini diaduk menjadi satu bersama tempe dan kemudian dibentuk menyerupai combro. Bentuknya saja sudah membuat kita ingin langsung memakannya ya, bagaimana dengan rasanya? Lezat sekali!
 		</item>
-
 		<item>
-		Aceh juga memiliki banyak wisata pantai yang indah, salah satunya adalah Pantai Batu Bertupang. Pantai yang indah lainnya adalah
-		Pantai Lampuuk, Pantai Terong Pantai Kuala Parek dan Pantai Pasir Saka.
+		Kalau tadi kita sudah membahas makanan yang gurih dan renyah, kini saatnya membahas yang manis-manis. Angsle Malang, memang tampilannya lebih mirip sekoteng karena ada irisan roti, kacang tanah yang disangrai dan kacang hijau di dalamnya. Bedanya Angsle ini masih ditambahkan dengan petulo atau yang biasa kita tahu dengan putu mayang, ditambahkan dengan tape singkong, ketan putih kukus dan bubur mutiara. Sepertinya makanan ini cocok dihidangkan sebagai makanan penutup.
 		</item>
-
 		<item>
-		Pantai Panjang terletak di Kotamadya Bengkulu, Propinsi Bengkulu. Kondisi pantainya yang landai, airnya yang bersih, serta hamparan
-		pasir putihnya yang luas, merupakan daya tarik tersendiri dari obyek wisata Pantai Panjang. Dengan kondisi pantai seperti itu,
-		pengunjung dapat mandi sepuasnya sambil menikmati semilir angin pantai yang masih bersih dan sejuk karena pantai ini jauh dari
-		area perindustrian.Selain itu, banyaknya pohon cemara yang tumbuh di sekitar pantai ini juga merupakan keunikan tersendiri yang
-		mungkin tidak dimiliki oleh pantai-pantai lainnya. Sebab, secara umum, pohon yang biasanya tumbuh di daerah pantai adalah pohon
-		kelapa, dan ini tidak dijumpai di Pantai Panjang. Penginapan terkenal Nala sea side hotel,Amaris hotel Bengkulu,pasir putih resort.
+		Pecinta durian, kabar gembira jika mengunjungi Malang. Ternyata tidak hanya apel, tapi Es Durian Dempo ini juga sangat dicari oleh para wisatawan. Sudah pasti bahan dasar dari es ini adalah Durian, tapi tidak hanya itu saja. Es durian ini akan dicampur dengan susu kental manis ditambahkan dengan sirup lalu dicampur dengan serutan es batu yang membuat rasanya semakin nikmat.
 		</item>
     </string-array>
+
     <string-array name="place_locationsfood4">
-        <item> kecamatan Tanjung Raya, Kabupaten Agam, provinsi Sumatera Barat</item>
-        <item>kota Payakumbuh di kabupaten Limapuluh Koto, provinsi Sumatera Barat</item>
-        <item>Sungai Kampar</item>
-		<item>Desa Karang Dalam, Kecamatan Pulau Pinang, Kabupaten Lahat,
-		Sumatera Selatan</item>
-        <item>Gunung Sibayak</item>
-		<item>Provinsi Sumatera
-		Utara</item>
-        <item>Taman Nasional Bukit Barisan</item>
-        <item>Desa Selat Baru</item>
-        <item> Pantai Batu Bertupang </item>
-        <item>Kotamadya Bengkulu, Propinsi Bengkulu</item>
+        <item>Jl. Blitar No.14, Sumbersari, Kec. Lowokwaru, Kota Malang</item>
+        <item>Jl. Diponegoro No. 19, Klojen, Kota Malang</item>
+        <item>Jl. Brigjend. Katamso No.21, Kauman, Klojen, Kota Malang</item>
+		<item>Jl. Zainul Arifin No.62, Sukoharjo, Klojen, Kota Malang</item>
+        <item>Jl. Bandung No.18 A, Penanggungan, Klojen, Kota Malang</item>
+		<item>Jl. Batanghari No. 5, Rampal Celaket, Klojen, Kota Malang</item>
+        <item>Jl. Mayjend M.T. Haryono, Dinoyo, Kecamatan Lowokwaru, Kota Malang</item>
+        <item>Jl. Jetak lor, Mulyoagung, Dau, Malang, Jawa Timur 65151</item>
+        <item>Jl. Zainal Arifin No. 17, Sukoharjo, Klojen, Kota Malang, Jawa Timur 65119</item>
+        <item>Jl. Gede, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65115</item>
     </string-array>
     <array name="places_picturefood4">
         <item>@drawable/lp4</item>
@@ -128,13 +85,13 @@
 
     <!--FOOD2/MAINCOURSE-->
     <string-array name="placesfood2">
-        <item>Jawara resto</item>
+        <item>Djati Lounge</item>
         <item>Leko</item>
         <item>Wellduck bebek gobar</item>
         <item>Upnormal</item>
         <item>Saboten</item>
         <item>Taman Indie River View Resto</item>
-        <item>Sambel jungle</item>
+        <item>Sambel Jungle</item>
         <item>Madam wang</item>
         <item>Rumah makan cairo</item>
         <item>Rumah oppa kitchen and longue</item>
@@ -152,72 +109,49 @@
         <item>Kecamatan</item>
     </string-array>
     <string-array name="place_detailsfood2">
-        <item> Danau Sentarum terletak di Kapuas Hulu, Kalimantan Barat Danau ini dipenuhi air selama 10 bulan setiap tahunnya, dan sisanya
-		akan surut, membentuk kolam-kolam kecil yang berisi ikan-ikan kecil. Saat kemarau, Air Danau Sentarum memasok setengah dari aliran
-		air Sungai Kapuas. Luas keseluruhan danau ini 132.000 hektarePenginapan Permata Bunda, Penginapan Aman Sentosa, Penginapan Marisa
+        <item>
+        Djati Lounge adalah salah satu tempat baru di Malang yang akhir-akhir ini cukup sering menjadi jujugan wisata kuliner. Tempatnya menarik, dengan suasana nyaman, cocok untuk dating dan hangout bersama teman.
+        </item>
+        <item>
+		Menempati sebuah rumah dipojok antara jalan Argopuro dan jalan Merapi di Malang, cafe Leko ini memproklamirkan diri sebagai Spesialis Iga Sapi Penyet. Dan sebagai sebuah cafe wiralaba, cabang yang satu ini ada dalam urutan cabang yang ke 40 di tanah air.
+        </item>
+        <item>
+		Kalau kamu mau cari restoran bebek yang enak di Malang, ini dia tempatnya! Berbagai pilihan menu bebek yang pastinya bakal menggoyang lidah kamu ada di sini! Kamu harus banget cobain Bebek GOBAR (Goreng Bakar), bumbunya meresap sampai ke tulang! Slluuurppp!
+        </item>
+        <item>
+		Tempat makan yang tak mau disebut kafe apalagi resto ini mencoba menawarkan suguhan berbeda. Apa itu? Sajian aneka menu Indomie. Bukan suguhan indomie biasa, melainkan indomie dengan variasi toping dan cita rasa yang beragam. Boleh dibilang, Warunk Upnormal  adalah pelopor warung indomie kekinian.
+        </item>
+        <item>
+		Suka dengan Japanese food alias makanan Jepang, tapi yang harganya tidak menguras kantong kamu? Saboten Shokudo jadi jawaban yang pas buat kamu, Japanese Food Lovers.
+        Di kota Malang, yang terkenal sebagai salah satu kota kuliner ini, sudah banyak bermunculan berbagai tempat makan yang menyediakan menu dari Negeri Matahari Terbit itu. Semuanya menggoda selera. Tapi, masalahnya ada di harga yang cukup menguras kantong.
+        </item>
+        <item>
+		Yang membuat restoran ini berbeda adalah, meskipun di sini Anda juga akan dibawa ke masa lalu, namun eranya jauh lebih lama daripada masa kolonial, tepatnya di jaman waktu kita masyarakat Jawa masih hidup secara tradisional dengan bertani dan menangkap ikan di sungai.
 		</item>
-
-        <item> Pantai Melawai terletak di Jl. Pelabuhan Semayang, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur.Waktu yang tepat untuk
-		mengunjungi salah satu tempat wisata di Balikpapan ini adalah saat sore hari menjelang malam. Pada saat itu, penjual makanan sudah ramai menggelar dagangannya. Anda bisa menikmati pemandangan matahari terbenam sambil bersantai menikmati makanan Anda dengan duduk lesehan di atas tikar yang telah disiapkan
-		Bintang Hotel Balikpapan , Sentosa Guest House , Fortuna Guest House.</item>
-
-		<item>Kecamatan Hanau, Danau Sembuluh, dan Seruyan Hilir di Kabupaten Seruyan sebuah taman nasional yang terletak di semenanjung
-		barat daya provinsi Kalimantan Tengah.</item>
-
-        <item> Pasar terapung muara kuin terletak di Banjarmasin. pasar terapung tradisional yang berada di atas sungai Barito di muara
-		sungai Kuin, Banjarmasin, Kalimantan Selatan.Pasar Terapung Muara Kuin merupakan pusaka saujana Kota Banjarmasin.
-		Para pedagang dan pembeli menggunakan jukung, sebutan perahu dalam bahasa Banjar. Pasar ini mulai setelah salat Subuh sampai
-		selepas pukul tujuh pagi. Matahari terbit memantulkan cahaya di antara transaksi sayur-mayur dan hasil kebun dari kampung-kampung
-		sepanjang aliran sungai Barito dan anak-anak sungainya.</item>
-
-        <item> Jembatan Tajuk di Bukit Bangkirai. Kawasan wisata ini terletak di Kecamatan Samboja, Kabupaten Kutai Kartanegara,
-		Kalimantan Timur. Bukit Bangkirai dapat ditempuh melalui perjalanan darat selama 1,5 jam dari Kota Balikpapan.
-		Wisata ini menawarkan pesona hutan hujan tropis yang masih alami, yang dilengkapi dengan sarana dan prasarana wisata seperti restoran,
-		lamin untuk pertemuan, kolam renang, serta cottage maupun jungle cabin. Di kawasan ini terdapat canopy bridge (jembatan tajuk)
-		sepanjang 64 m yang digantung menghubungkan 5 pohon Bangkirai di ketinggian 30 m. Jembatan tajuk ini merupakan yang pertama di
-		Indonesia, kedua di Asia dan yang kedelapan di dunia</item>
-
-        <item> Pulau Kembang terletak di kecamatan Alalak, Kabupaten Barito Kuala, provinsi Kalimantan Selatan .
-		Pulau Kembang ditetapkan sebagai hutan wisata berdasarkan SK. Menteri Pertanian No. 788/Kptsum12/1976 dengan luas 60 Ha.
-		Di dalam kawasan hutan wisata ini terdapat altar yang diperuntukkan sebagai tempat meletakkan sesaji bagi " penjaga" pulau
-		Kembang yang dilambangkan dengan dua buah arca berwujud kera berwarna putih (Hanoman), oleh masyarakat dari etnis Tionghoa-
-		Indonesiayang mempunyai kaul atau nazar tertentu. Seekor kambing jantan yang tanduknya dilapisi emas biasanya dilepaskan ke
-		dalam hutan pulau Kembang apabila sebuah permohonan berhasil atau terkabul.</item>
-
-		<item> Pulau Beras Basah merupakan sebuah pulau kecil yang berlokasi di Selat Makassar timur bagian Pulau Kalimantan.
-		Secara administrasi, pulau ini berada di bawah pemerintah Kota Bontang, Provinsi Kalimantan Timur. Pulau ini sekarang
-		menjadi tujuan wisata dan para penyelam yang tertarik akan keindahan pemandangan bawah lautnya.</item>
-
-		<item> Bukit Kelam adalah gunung yang terletak di Kalimantan Barat. Gunung ini memiliki tanaman endemik kantong semar dari
-		spesies Nepenthes clipeata.Gunung Kelam membentang dari barat ke timur dengan ketinggian 1.002 mdpl merupakan sebongkah
-		batu raksasa (monolit). Tempat ini terletak 20 km dari kota Sintang dan sekitar 395 km dari Pontianak ibukota Kalimantan
-		Barat. Kawasan Gunung Kelam berada di wilayah Kecamatan Kelam Permai kab. Sintang Kalimantan Barat. Tepatnya di Hutan wisata
-		Bukit Kelam. Bukit Kelam berada di antara dua sungai besar yaitu Sungai Melawi dan Sungai Kapuas.
-		Masyarakat di Kalimantan menyebut Gunung Kelam sebagai Bukit Kelam karena secara umum masyarakat setempat menyebut gunung sebagai
-		"bukit raya". Untuk pendakian mencapai puncak dibutuhkan waktu 4-5 jam untuk naik dan 3-4 jam untuk turun.</item>
-
-		<item>Sungai Mahakam merupakan sungai terbesar yang membelah provinsi Kalimantan (Borneo) Timur. Alur sungai ini,
-		sebagian besar mengitari wilayah Kabupaten Kutai Kartanegara, Kabupaten Kutai Barat, dan Kota Samarinda. Bagian hulu
-		sungai ini melintasi Kabupaten Kutai Barat, sementara bagian hilirnya melintasi Kabupaten Kutai Kartanegara dan Kota Samarinda.
-		Sungai Mahakam bisa dikatakan menjadi jantung kehidupan bagi sebagian besar masyarakat Kalimantan (Borneo) Timur.
-		Penginapan terkenal yakni Harris hotel samarinda, swiss bel-hotel borneo samarinda, aston samarinda hotel</item>
-
-		<item>Kecamatan Loksado adalah sebuah kecamatan di Kabupaten Hulu Sungai Selatan, Kalimantan Selatan, Indonesia. Loksado
-		terletak di pegunungan Meratus merupakan salah satu daerah wisata alam dan atraksi budaya masyarakat Dayak Bukit.
-		Penginapan terkenal yakni Hotel Wisma Duta, Hotel Rakat Mufakat, Amandit Resort.</item>
+		<item>
+		Tempatnya lumayan enak buat makan, pokoknya recommended bangetlah. Nama tempat makan ini adaalah SAMBEL JUNGLE. Makanan yang ditawarkan cukup bikin orang-orang tertarik, yaitu ada paket Hepi Jungle mulai harga Rp 5.000-10.000. Nah isinya apa aja? Penasaran kan harga segitu dapat apa aja?
+		</item>
+		<item>
+		Madam Wang Secret Garden bisa jadi pilihan yang asyik. Buat yang pertama kali datang ke Madam Wang Secret Garden pasti pengen berkeliling dan pose-pose dulu karena taman outdoornya yang ditata dengan cantik dan asri bikin nggak bisa dilewatin gitu aja.
+		</item>
+		<item>
+		Bagi penikmat kuliner Timur Tengah khususnya Arab, tak perlu jauh-jauh ke Arab untuk menikmatinya. Sajian khas Arab yang berbau daging terutama daging kambing dapat Anda temui di Malang. Kota apel ini tak hanya dikenal karena potensi wisatanya saja, namun kulinernya pun wajib Anda cicipi. Salah satu tempat yang perlu Anda kunjungi yaitu Rumah Makan Cairo.
+		</item>
+		<item>
+		Tempat ini menyerupai sebuah rumah klasik Jawa, dengan komposisi furnitur yang menarik, serta peralatan serba vintage.
+		</item>
     </string-array>
     <string-array name="place_locationsfood2">
-        <item> Kapuas Hulu, Kalimantan Barat</item>
-        <item>Pelabuhan Semayang, Balikpapan Kota, Kota Balikpapan, Kalimantan Timur</item>
-        <item>Kecamatan Hanau, Danau Sembuluh, dan Seruyan Hilir di Kabupaten Seruyan, KalTeng</item>
-        <item>Banjarmasin</item>
-        <item>Kecamatan Samboja, Kabupaten Kutai Kartanegara,
-		Kalimantan Timur</item>
-        <item>kecamatan Alalak, Kabupaten Barito Kuala, provinsi Kalimantan Selatan</item>
-        <item>Selat Makassar timur bagian Pulau Kalimantan</item>
-        <item>Kalimantan Barat</item>
-        <item> Kalimantan (Borneo) Timur</item>
-        <item>Kabupaten Hulu Sungai Selatan, Kalimantan Selatan</item>
+        <item>Cluster Greenwood, Jl. Greenwood Golf Mansion No. 49, Araya, Malang</item>
+        <item>Jl. Argopuro dan Jl. Merapi di Malang</item>
+        <item>Jl L.A Sucipto 108 | Matos, Malang</item>
+        <item>Ruko 7cs Blok DF2 No.22-23 Jl.Boulevard Gading Serpong</item>
+        <item>Jl. Raya Dieng 18 dan Jl. Danau Kerinci Raya C2-A9, Sawojajar, Malang</item>
+        <item>Jl. Lawang Sewu Golf No.2018, Kota Araya, Malang</item>
+        <item>Jl. Trunojoyo no. 25 Kota Malang, sebelah barat Stasiun Kota Baru Malang.</item>
+        <item>Jl. Telomoyo No. 12 Malang</item>
+        <item>Jl. Kapt. Tendean No 1.</item>
+        <item>Jl. Welirang No.41A, Malang</item>
     </string-array>
     <array name="places_picturefood2">
         <item>@drawable/lp2</item>
@@ -243,8 +177,9 @@
         <item>Café Momochi</item>
         <item>Akalpa Café</item>
         <item>Mocha Maco</item>
-        <item>Makassar</item>
+        <item>Java Dancer Coffee</item>
     </string-array>
+
     <string-array name="place_descfood3">
         <item>Taman nasional</item>
         <item>Desa</item>
@@ -257,70 +192,53 @@
         <item>Wakatobi</item>
         <item>Kota</item>
     </string-array>
+
     <string-array name="place_detailsfood3">
-        <item>Taman Nasional Lore Lindu memiliki fauna dan flora endemik Sulawesi serta panorama alam yang menarik karena
-		terletak di garis Wallace yang merupakan wilayah peralihan antara zona Asia dan Australia.
-		Taman Nasional Lore Lindu yang terletak di selatan kabupaten Donggala dan bagian barat kabupaten Poso menjadi daerah tangkapan
-		air bagi 3 sungai besar di Sulawesi Tengah, yakni sungai Lariang, sungai Gumbasa dan sungai Palu.
+        <item>
+        Apakah Kamu pecinta ice cream ? Ataupun juga penikmat yogurt dengan berbagai pilihan rasa? Yaah sepertinya ice cream dan yogurt menjadi dessert yang paling banyak diminati oleh ebrbagai kalangan. Buktinya tidak hanya remaja saja yang gemar menikmati dessert ini tetapi orang lanjut usia pun juga suka dengan teksturnya yang lembut dan rasanya yang manis. Jika berkunjung ke Kota Malang dan ingin menikmati ice cream, Kamu bisa datang ke Uniccone Malang yang menyediakan soft ice cream dan frozen yogurt dengan pilihan rasa yang beragam.
 		</item>
-
-        <item>Tana Toraja terletak di kabupaten di Provinsi Sulawesi Selatan.Suku Toraja yang mendiami daerah pegunungan dan mempertahankan
-		gaya hidup yang khas dan masih menunjukkan gaya hidup Austronesia yang asli dan mirip dengan budaya Nias. Daerah ini merupakan salah
-		satu objek wisata di Sulawesi Selatan.
-		Penginapan terkenal yakni sahid toraja hotel, hotel indra toraja, toraja misiliana hotel. </item>
-
-		<item>Tentena terletak di Kabupaten Poso, Sulawesi Tengah.Nama "Tentena" lebih dikenal oleh masyarakat di Sulawesi umumnya dan ini
-		sudah berlangsung lama, sejak Tentena memiliki kejayaan di masa lalu, yang secara khusus berkaitan dengan pembentukan pasar
-		tradisional mula-mula atau disebut dengan "Pasar Subuh", sehingga nama dari salah satu wilayah administratif kecamatan Pamona
-		Puselemba dipakai sebagai identitas dari seluruh masyarakat yang bermukim pada wilayah kecamatan tersebut.</item>
-
-        <item>Kepulauan Togian ini dikenal kaya akan terumbu karang dan berbagai biota laut yang langka dan dilindungi. Beberapa aksi
-		wisata yang dapat dilakukan di Kepulauan Togean antara lain: menyelam dan snorkelling di Pulau Kadidiri, memancing ,menjelajah
-		alam hutan yang ada di dalam hutan yang ada di Pulau Malenge, serta mengunjungi gunung Colo di Pulau Una-una. Wisatawan juga bisa
-		mengunjungi permukiman orang Bajo di Kabalutan. </item>
-
-        <item>Tomohon Sebelum tahun 2003 merupakan salah satu kecamatan di Kabupaten Minahasa. Dalam perkembangannya,
-		Tomohon mengalami banyak sekali kemajuan, sehingga ada aspirasi dari warganya untuk meningkatkan status Tomohon menjadi sebuah
-		kota. Tomohon menjadi daerah otonom (kota) dengan disahkannya Undang-Undang Nomor 10 Tahun 2003 tentang Pembentukan Kabupaten
-		Minahasa Selatan dan Kota Tomohon di Provinsi Sulawesi Utara oleh DPR RI, namun peresmiannya baru pada tanggal 4 Agustus 2003.</item>
-
-        <item>Taman Nasional Tangkuku salah satu obyek wisata andalan Provinsi Sulawesi Utara terlebih Kota Bitung yang banyak dikunjungi
-		oleh wisatawan, baik wisatawan domestik maupun wisatawan mancanegara, termasuk LSM, para pegiat lingkungan hingga para peneliti.
-		Secara administratif, Taman Nasional Tangkokoberada diwilayah administrasi Kota Bitung tepatnya di kaki gunung dua sudara</item>
-
-		<item>Bunaken terletak di Teluk Manado. Taman laut Bunaken memiliki 20 titik penyelaman (dive spot) dengan kedalaman bervariasi
-		hingga 1.344 meter. Dari 20 titik selam itu, 12 titik selam di antaranya berada di sekitar Pulau Bunaken. Dua belas titik
-		penyelaman inilah yang paling kerap dikunjungi penyelam dan pecinta keindahan pemandangan bawah laut. Sebagian besar dari
-		12 titik penyelaman di Pulau Bunaken berjajar dari bagian tenggara hingga bagian barat laut pulau tersebut. Di wilayah
-		inilah terdapat underwater great walls, yang disebut juga hanging walls, atau dinding-dinding karang raksasa yang berdiri
-		vertikal dan melengkung ke atas. Dinding karang ini juga menjadi sumber makanan bagi ikan-ikan di perairan sekitar Pulau Bunaken.
-		Penginapan terkenal yakni Raja Laut Dive Resort, Bunaken Island Resort, Bastianos Dive Resort</item>
-
-		<item>Manado Kota Manado seringkali disebut sebagai Menado. Manado terletak di Teluk Manado, dan dikelilingi oleh daerah
-		pegunungan. Kota ini memiliki 408.354 penduduk pada Sensus 2010, menjadikannya kota terbesar kedua di Sulawesi setelah Makassar
-		ibu kota dari provinsi Sulawesi Utara
+        <item>
+        Terletak di kawasan Tidar, Malang yang termasuk dataran tinggi dengan hawa yang sejuk segar menjadi pelengkap untuk bersantai di tempat ini. Konsep yang elegan dan menu dengan variant yang banyak dari aneka makanan dan minuman yang juga berkualitas.
+        </item>
+		<item>
+        Bunch Bead adalah sebuah cafe di malang yang memiliki konsep cukup unik. Desain Interior Cafenya pun berasa kita mengenal banget sama semua crew Bunch Bead. Banyak foto mereka yang terpampang melengkapi desain cafe yang unik ini. Terkadang mereka juga berinovasi untuk mendesain tempatnya lagi dan lagi jadi, buat kamu yang nantinya sering berkunjung ke sana ga bakal bosen deh sama suasana tempatnya.
+        </item>
+        <item>
+        Di Bukit Delight, kalian bisa menikmati views yang kece parah seperti Gunung Banyak, Gunung Arjuna, dan Gunung Panderman. Selain views yang indah gila, owner Bukit Delight bener-bener kreatif dengan menambahkan suasana outdoor di café ini. Dekorasi lampu hias untuk penerangan dan bangku-bangku kayu berbahan jati semakin bikin café cozy dan natural abiiiisss.
+        </item>
+        <item>
+        Bosen sama yang hipster-hipster ato yang oldiest-oldiest? Loncat aja ke Grand Canyon Café dan Resto. Tapi jangan salah, kalian nggak bakal nemuin pegunungan ato lembah disini. Grand Canyon Café dan Resto didesign sangat menawan. Kalian akan merasakan kebun anggur di dalam café. Di area balkon, kalian akan nemuin sport yang fascinating banget, guys. Juntaian tanaman rambat dan indahnya panorama kota bakalan bikin kalian terlena abiiiss.
+        </item>
+        <item>
+        Food Truck lagi ngehits nih di Malang. Mampir aja ke VolksWaffle Stratery untuk menikmati sajian-sajian waffle yang tastylicious.  Di VolksWaffle Stratery kalian bisa bersantap sembari duduk di bangku-bangku kayu sederhana.
+        </item>
+		<item>
+        Kafe yang di dominasi oleh warna biru dan pink pastel ini, memang terlihat kecil dari luar. Hanya saja ruangannya terbilang cukup luas dengan bentuk memanjang ke belakang. Memasuki ruangan kafe, kesan homey ala Eropa pun terasa dengan desain ruangan yang ditata untuk menyamankan para pelanggan.
 		</item>
-
-		<item>sebuah KEPULAUAN yang berada di propinsi sulawesi tenggara (Sul-Tra) dan merupakan salah satu bagian dari daerah Buton.
-		WAKATOBI terkenal sebagai salah satu tujuan wisata menarik diIndonesia khususnya dari aspek wisata bahari. </item>
-
-		<item>Makassar merupakan kota Internasional serta terbesar di kawasan Indonesia Timur dan pada masa lalu pernah menjadi
-		ibukota Negara Indonesia Timur Provinsi Sulawesi. Makassar terletak di pesisir barat daya Pulau Sulawesidan berbatasan dengan
-		Selat Makassar di sebelah barat, Kabupaten Kepulauan Pangkajene di sebelah utara, Kabupaten Marosdi sebelah timur dan Kabupaten
-		Gowa di sebelah selatan.</item>
+		<item>
+        Akalpa café (Sebagian besar dinding kafe ini tertutup oleh corak dan desain unik, poster-poster menarik serta aneka mural. Bahkan Anda juga akan menemukan sebuah bilik telepon umum seperti yang ada di Inggris untuk berpose! Yang suka selfie angkat tangan!. Alkapa Café cocok banget buat kalian yang suka selfie. Dinding – dinding Alkapa Café didesign dengan corak yang unik. Poster-poster kece serta aneka mural menambah kesan keren abis café satu ini. Di Alkapa Café kalian bakal nemuin sebuah bilik telepon umum seperti yang ada di London untuk berpose.
+        </item>
+		<item>
+        Mochi Maco Malang menawarkan aneka macam dessert menarik terutama mochi es krim dengan berbagai varian citarasa seperti coklat, vanila, stoberi, mocha, oreo, green tea, dan durian yang menjadi primadonanya disini.
+        </item>
+        <item>
+        Disebut-sebut sebagai pelopor kedai kopi lokal di Kota Malang, di sini Anda bisa  menikmati sederetan kopi nusantara terbaik, seperti Aceh Gayo, Sumatra Mandheling, Java Estate, Flores, Java Mountain, Toraja, Wamena dan masih banyak lagi. Dan tentu saja tak ketinggalan kopi Luwak dari Sumbawa!  Metode penyajiannya pun beragam, bisa tubruk, french press, syphon, dan sebagainya.
+        </item>
     </string-array>
+
     <string-array name="place_locationsfood3">
-        <item> selatan kabupaten Donggala dan bagian barat kabupaten Poso</item>
-        <item>Provinsi Sulawesi Selatan</item>
-        <item>Kabupaten Poso, Sulawesi Tengah</item>
-        <item>Kepulauan Togean</item>
-        <item>kecamatan di Kabupaten Minahasa</item>
-        <item>kota bintung, sulawesi utara</item>
-        <item>Teluk Manado</item>
-        <item>Kota Manado</item>
-        <item> propinsi sulawesi tenggara </item>
-        <item>Kota Makassar</item>
+        <item>Jl.Trunojoyo 23, Kota Malang</item>
+        <item>Jl.Puncak Mandala No.42-44 Tidar Kota Malang</item>
+        <item>Ruko Ditas Jl. Mayjend M.T. Haryono</item>
+        <item>Jl. Raya Joyo Agung No.1, Merjosari, Malang</item>
+        <item>Jl. Bendungan Sigura-gura No. 25A, Malang</item>
+        <item>Jl. Semeru No. 76, Malang</item>
+        <item>Jl. Bunga Cokelat No.6, Kota Malang</item>
+        <item>Jl. Terusan Dieng No. 67, Malang</item>
+        <item>Jl. Galunggung No. 83, Klojen, Gading Kasri, Klojen, Kota Malang</item>
+        <item>Jl. Pahlawan Trip A5, Malang</item>
     </string-array>
+
     <array name="places_picturefood3">
         <item>@drawable/lp3</item>
         <item>@drawable/lp3</item>
@@ -338,75 +256,94 @@
     <string-array name="placesfood1">
         <item>Burger Buto</item>
         <item>Racel Risol</item>
-        <item>Racel Tea</item>
+        <item>Vosco Coffee</item>
         <item>Legi Pait</item>
         <item>Urban Pop</item>
-        <item>Ocean garden</item>
-        <item>Javaine</item>
+        <item>Illy Cafe Malang</item>
+        <item>Javanine</item>
         <item>Mie Bromo</item>
         <item>Mie Lego</item>
-        <item>Miesetan</item>
+        <item>Mie Setan</item>
     </string-array>
+
     <string-array name="place_descfood1">
-        <item> kisaran harga burge buto</item>
-        <item> kisaran harga rasel risol</item>
-        <item>kisaran harga racel tea</item>
-        <item> kisaran harga legi pait </item>
-        <item>kisaran harga Urban pop</item>
-        <item>kisaran harga ocean garden</item>
-        <item>kisaran harga Javanine</item>
-        <item>kisaran harga Mie bromo</item>
-        <item>kisaran harga mi lego</item>
-        <item>kisaran hargami setan </item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.35.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.15.000</item>
+        <item>Kisaran harga makanan antara Rp.18.000 sampai dengan Rp.70.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.18.000</item>
+        <item>Kisaran harga makanan antara Rp.13.000 sampai dengan Rp.22.000</item>
+        <item>Kisaran harga makanan antara Rp.11.500 sampai dengan Rp.25.000</item>
+        <item>Kisaran harga makanan antara Rp.20.000 sampai dengan Rp.80.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.20.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.8.000</item>
+        <item>Kisaran harga makanan antara Rp.8.000 sampai dengan Rp.15.000</item>
     </string-array>
+
     <string-array name="place_detailsfood1">
             <item>
-               keterangan burger buto
-                </item>
-            <item>
-               KETERANGAN rasel ricol
-                BUKA : 10.00 - 22.00 WIB (kamis tutup) </item>
-            <item>
-                keterangan racael tea
+            Pecinta junkfood wajib nih mampir ke Kedai 27. Menu andalan di Kedai 27 adalah Burger Buto. Dari namanya aja udah bisa ngebayangin belum kayak gimana burgernya? Yup, burgernya sih tidak mengerikan seperti hantu buto ijo, akan tetapi ukurannya jumbo banget, guys. Dengan dimeter 30cm, kalian bisa menyantapnya rame-rame.
+            Jam Operasional : 12PM – 9PM (Selasa – Kamis) | 1PM – 10PM (Jumat – Minggu)
+            Phone : 0341 – 495438
             </item>
             <item>
-            keterangan legi pait
-            Harga kisaran 5000-18000(belum termasuk pajak)
-                jam buka selasa - minggu pkl 15 - 22.00
+            Terletak di Jalan Pandan dan kini juga hadir di Jalan Tlogomas Malang. Seperti namanya, cafe ini memprioritaskan jajanan lokal bernama risol untuk menjadi menu utama. Desain tampilan dari cafe Racel Risol sangat unik dan cute dengan memanfaatkan barang-barang ricyle membuat cafe ini semakin menarik untuk dikunjungi.
+            Jam Operasional : 10.00 - 22.00 WIB (kamis tutup)
+            Phone : +62 341 8188222
             </item>
             <item>
-		       keterangan urban pop
+            Ingin bersantai di malam minggu di Kota Malang yang seru? Kenapa kalian nggak mampir ke Vosco Coffee. Tempatnya asik buat nongkrong sekaligus makan bareng teman. Harga makanan dan minuman disini juga nggak terlalu mahal, plus tempatnya cozy untuk bersantai dan bercengkrama bersama teman.
+            Jam Operasional : 8AM – 10:50PM
+            Phone : +62 856 313 6778
             </item>
             <item>
-              keterangan ocean garden
+            Legipait yang dalam bahasa indonesia berarti manis-pahit. Cafe kecil di Jalan Patimura No. 24, Malang. Meski kecil konsep jaman dulu yang diusung cafe ini cukup matang. Menyajikan menu-menu meliputi berbagai macam kopi lokal beserta beberapa makanan ringan. Legipait bisa menjadi pilihan anda bersantai selepas beraktifitas sepanjang hari.
+            Jam Operasional : Selasa - Minggu pkl 15 – 22.00
+            Phone : +62 341 7068795
             </item>
             <item>
-		        keterangan Javanine
+            Untuk Anda yang merasa K-popers, Urban Pop menjadi kafe yang wajib Anda tuju! Karena di kafe ini Anda akan benar-benar merasa ada di dunia korea.
+		    Jam Operasional : setiap hari 11.00 - 22.00
+            </item>
+            <item>
+            Illy Cafe Malang adalah salah satu cafe yang populer di Malang,terutama pada kalangan mahasiswa. Mungkin bukan tempat terbaik untuk nongkrong rame-rame bareng teman. Tetapi merupakan salah satu pilihan jika kalian ingin mencoba berbagai menu makanannya yang enak.
+            Jam Operasional : 10 am – 9 pm
+            Phone : +62 341 339069
+            </item>
+            <item>
+            Javanine merupakan kombinasi antara restaurant dan café. Javanine membawa unsur elegan dan modern yang membuat café ini cocok dikunjungi bersama keluarga atau teman-teman. Interior Javanine didominasi dengan unsur kayu yang membuatnya terlihat simple namun mewah. Dengan taman vertical di salah satu dindingnya membuat Javanine terkesan fresh.
+            Sajian di Javanine kebanyakan adalah makanan tradisional. Yang membuatnya berbeda adalah cara penyajiannya yang cantik. Menu yang direkomendasikan disini adalah Nasi Bebek Crispy yang disajikan dengan 3 sambal; sambal bawang, sambal terasi, dan sambal ijo. Selain itu juga ada Semur Lidah Sapii dan Nasi Buk Madura. Untuk dessertnya kalian bisa memesan Es Teller Durian. Wah dijamin deh bikin diet kalian gagal.
+		    Jam Operasional : 11AM – 10PM
+            Phone : 0341 – 557989
             </item>
 		    <item>
-              keterangan mi bromo  </item>
-		    <item>
-                Borobudur adalah salah satu dari keajaiban dunia. candi satu ini sangat
-		        banyak dikunjungi oleh wisatawan. Candi ini banyak meyimpan cerit - cerita sejarah jaman dahulu.
+            Pangsit mie bromo pojok ini cukup terkenal di Malang, Rasa dari pangsit mie tersebut sangatlah enak dan juga harga yang murah membuat orang-orang selalu datang kesini. Disini juga menjual banyak Varian pangsit mie dan juga ada Es Artistik atau disebut Es Bromo yang berbentuk seperti gunung Bromo.
+            Jam Operasional : 9AM – 9PM
+            Phone : +62 341 327853
             </item>
 		    <item>
-               keterangan mi lego
-        </item>
-
-        <item>
-              keterangan mi setan   </item>
+            Mie Lego merupakan sebuah tempat makan yang menyediakan menu Mie sebagai menu andalannya.
+            Harga yang ditawarkan sesuai dengan kualitas makanan yang diberikan.
+            Jam Operasional : 10:00 AM - 11:00 PM
+            Phone : (0341) 3012259
+            </item>
+		    <item>
+            Mie Setan, pastinya yang ada dibenak Anda adalah mienya para “Setan”. Namun, istilah “Setan” tersebut diberikan untuk menggambarkan rasa pedas yang terdapat di kuliner unik satu ini.
+            Jam Operasional : 10AM – 11PM
+            Phone : +62 812-3504-3433
+            </item>
     </string-array>
+
     <string-array name="place_locationsfood1">
-        <item>Jl. Sarangan, Malang</item>
+        <item>Jl. Sarangan No. 27, Malang</item>
         <item>Jl. Pandan 21 Malang</item>
-        <item>racel tea</item>
-        <item> JL.patimura no 24 Malang </item>
-        <item>Urban pop</item>
-        <item>ocean garden</item>
-        <item>Javanine</item>
-        <item>Mie bromo</item>
-        <item>mi lego</item>
-        <item>mi setan </item>
+        <item>Jl. Borobudur 27-A, Malang 65142</item>
+        <item>Jl. Patimura no 24 Malang </item>
+        <item>Jl. Danau Maninjau Raya no. 85, Sawojajar, Malang</item>
+        <item>Jl. Arjuno no. 36 | Lai Lai Supermarket, Malang 65141</item>
+        <item>Jl. Pahlawan Trip A5, Malang</item>
+        <item>Jl. Pattimura No. 53 Malang</item>
+        <item>Jl. Bendungan Sigura-Gura Barat No. 21, Karang Besuki,  Malang</item>
+        <item>Jl. Bromo, Kota Malang</item>
 
     </string-array>
     <array name="places_picturefood1">
@@ -425,17 +362,18 @@
 
     <!--FOOD5/STREETFOOD-->
     <string-array name="placesfood5">
-        <item>Teluk Cendrawasih</item>
-        <item>Raja Ampat</item>
-        <item>Danau Sentani</item>
-        <item>Danau Paniai</item>
-        <item>Lembah Baliem</item>
-        <item>Desa Wisata Sauwandarek</item>
-        <item>Pantai Bosnik</item>
-        <item>Pantai Amai</item>
-        <item>Pulau Lumberpon</item>
-        <item>Tugu Macarthur</item>
+        <item>Cafe Right Time</item>
+        <item>Simpang Luwe Malang</item>
+        <item>Cafe Sawah</item>
+        <item>Dancok Cafe</item>
+        <item>Pupuk Bawang Cafe dan Dining</item>
+        <item>STMJ SOB Ijen</item>
+        <item>Lenong Rumpi</item>
+        <item>Sate Gebug</item>
+        <item>Bakso Bakar Mercon</item>
+        <item>Klepon Buah</item>
     </string-array>
+
     <string-array name="place_descfood5">
         <item>Taman Nasional</item>
         <item>Kepulauan</item>
@@ -448,6 +386,7 @@
         <item>Pulau</item>
         <item>Wisata Sejarah</item>
     </string-array>
+
     <string-array name="place_detailsfood5">
         <item>Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut
 		terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9 Persen),
@@ -506,6 +445,7 @@
 		Rindam XVIII/Trikora. Jika sedang ada latihan menembak,
 		anda tidak diperkenankan masuk mengunjungi tugu Mac Arthur ini. </item>
     </string-array>
+
     <string-array name="place_locationsfood5">
         <item>Papua Barat</item>
         <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
@@ -519,6 +459,7 @@
         <item>Teluk Wondama yang langsung berbatasan dengan Manokwari</item>
         <item>Papua</item>
     </string-array>
+
     <array name="places_picturefood5">
         <item>@drawable/lp5</item>
         <item>@drawable/lp5</item>
@@ -540,6 +481,7 @@
         <item>Beverage</item>
         <item>Street Food</item>
     </string-array>
+
     <string-array name="place_descTop">
         <item>Kawah</item>
         <item>Laut</item>
@@ -547,6 +489,7 @@
         <item>Kepulauan</item>
         <item>Kepulauan</item>
     </string-array>
+
     <string-array name="place_detailsTop">
         <item>
                 Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak
