@@ -14,16 +14,16 @@
         <item>Es Durian Dempo</item>
     </string-array>
     <string-array name="place_descfood4">
-        <item>Danau</item>
-        <item>Lembah</item>
-        <item>Sungai</item>
-        <item>Air Terjun</item>
-        <item>Gunung</item>
-        <item>Danau</item>
-        <item>Taman Nasional</item>
-        <item>Pantai</item>
-        <item>Pantai</item>
-        <item>Pantai</item>
+        <item>Kisaran harga makanan antara Rp.7.000 sampai dengan Rp.15.000</item>
+        <item>Kisaran harga makanan antara Rp.1.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.20.000</item>
+        <item>Kisaran harga makanan antara Rp.12.000 sampai dengan Rp.22.000</item>
+        <item>Kisaran harga makanan antara Rp.16.000 sampai dengan Rp.75.000</item>
+        <item>Kisaran harga makanan antara Rp.2.000 sampai dengan Rp.10.000</item>
+        <item>Kisaran harga makanan antara Rp.12.000 sampai dengan Rp.24.000</item>
+        <item>Kisaran harga makanan antara Rp.15.000 sampai dengan Rp.20.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.8.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.13.000</item>
     </string-array>
     <string-array name="place_detailsfood4">
         <item>
@@ -71,16 +71,16 @@
         <item>Jl. Gede, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65115</item>
     </string-array>
     <array name="places_picturefood4">
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp4</item>
+        <item>@drawable/k1</item>
+        <item>@drawable/k2</item>
+        <item>@drawable/k3</item>
+        <item>@drawable/k4</item>
+        <item>@drawable/k5</item>
+        <item>@drawable/k6</item>
+        <item>@drawable/k7</item>
+        <item>@drawable/k8</item>
+        <item>@drawable/k9</item>
+        <item>@drawable/k10</item>
     </array>
 
     <!--FOOD2/MAINCOURSE-->
@@ -97,16 +97,16 @@
         <item>Rumah oppa kitchen and longue</item>
     </string-array>
     <string-array name="place_descfood2">
-        <item>Danau</item>
-        <item>Pantai</item>
-        <item>Pantai</item>
-        <item>Pasar</item>
-        <item>Jembatan</item>
-        <item>Pulau</item>
-        <item>Pulau</item>
-        <item>Bukit</item>
-        <item>Sungai</item>
-        <item>Kecamatan</item>
+        <item>Kisaran harga makanan antara Rp.25.000 sampai dengan Rp.60.000</item>
+        <item>Kisaran harga makanan antara Rp.2.000 sampai dengan Rp.45.000</item>
+        <item>Kisaran harga makanan antara Rp.7.000 sampai dengan Rp.87.000</item>
+        <item>Kisaran harga makanan antara Rp.9.500 sampai dengan Rp.37.500</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.36.000</item>
+        <item>Kisaran harga makanan antara Rp.20.000 sampai dengan Rp.73.500</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.40.000</item>
+        <item>Kisaran harga makanan antara Rp.18.000 sampai dengan Rp.210.000</item>
     </string-array>
     <string-array name="place_detailsfood2">
         <item>
@@ -154,16 +154,16 @@
         <item>Jl. Welirang No.41A, Malang</item>
     </string-array>
     <array name="places_picturefood2">
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp2</item>
+        <item>@drawable/m1</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/m4</item>
+        <item>@drawable/m5</item>
+        <item>@drawable/m6</item>
+        <item>@drawable/m7</item>
+        <item>@drawable/m8</item>
+        <item>@drawable/m9</item>
+        <item>@drawable/m10</item>
     </array>
 
     <!--FOOD3/DESSERT-->
@@ -181,16 +181,16 @@
     </string-array>
 
     <string-array name="place_descfood3">
-        <item>Taman nasional</item>
-        <item>Desa</item>
-        <item>Tentena</item>
-        <item>Kepulauan</item>
-        <item>Tomohon</item>
-        <item>Taman Nasional</item>
-        <item>Laut</item>
-        <item>Kota</item>
-        <item>Wakatobi</item>
-        <item>Kota</item>
+        <item>Kisaran harga makanan antara Rp.12.000 sampai dengan Rp.23.000</item>
+        <item>Kisaran harga makanan antara Rp.30.000 sampai dengan Rp.48.000</item>
+        <item>Kisaran harga makanan antara Rp.12.000 sampai dengan Rp.33.000</item>
+        <item>Kisaran harga makanan antara Rp.8.000 sampai dengan Rp.18.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.40.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.15.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.25.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.4.000 sampai dengan Rp.23.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.100.000</item>
     </string-array>
 
     <string-array name="place_detailsfood3">
@@ -240,16 +240,16 @@
     </string-array>
 
     <array name="places_picturefood3">
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp3</item>
+        <item>@drawable/d1</item>
+        <item>@drawable/d2</item>
+        <item>@drawable/d3</item>
+        <item>@drawable/d4</item>
+        <item>@drawable/d5</item>
+        <item>@drawable/d6</item>
+        <item>@drawable/d7</item>
+        <item>@drawable/d8</item>
+        <item>@drawable/d9</item>
+        <item>@drawable/d10</item>
     </array>
 
     <!--FOOD1/APPETIZER-->
@@ -282,54 +282,34 @@
     <string-array name="place_detailsfood1">
             <item>
             Pecinta junkfood wajib nih mampir ke Kedai 27. Menu andalan di Kedai 27 adalah Burger Buto. Dari namanya aja udah bisa ngebayangin belum kayak gimana burgernya? Yup, burgernya sih tidak mengerikan seperti hantu buto ijo, akan tetapi ukurannya jumbo banget, guys. Dengan dimeter 30cm, kalian bisa menyantapnya rame-rame.
-            Jam Operasional : 12PM – 9PM (Selasa – Kamis) | 1PM – 10PM (Jumat – Minggu)
-            Phone : 0341 – 495438
             </item>
             <item>
             Terletak di Jalan Pandan dan kini juga hadir di Jalan Tlogomas Malang. Seperti namanya, cafe ini memprioritaskan jajanan lokal bernama risol untuk menjadi menu utama. Desain tampilan dari cafe Racel Risol sangat unik dan cute dengan memanfaatkan barang-barang ricyle membuat cafe ini semakin menarik untuk dikunjungi.
-            Jam Operasional : 10.00 - 22.00 WIB (kamis tutup)
-            Phone : +62 341 8188222
             </item>
             <item>
             Ingin bersantai di malam minggu di Kota Malang yang seru? Kenapa kalian nggak mampir ke Vosco Coffee. Tempatnya asik buat nongkrong sekaligus makan bareng teman. Harga makanan dan minuman disini juga nggak terlalu mahal, plus tempatnya cozy untuk bersantai dan bercengkrama bersama teman.
-            Jam Operasional : 8AM – 10:50PM
-            Phone : +62 856 313 6778
             </item>
             <item>
             Legipait yang dalam bahasa indonesia berarti manis-pahit. Cafe kecil di Jalan Patimura No. 24, Malang. Meski kecil konsep jaman dulu yang diusung cafe ini cukup matang. Menyajikan menu-menu meliputi berbagai macam kopi lokal beserta beberapa makanan ringan. Legipait bisa menjadi pilihan anda bersantai selepas beraktifitas sepanjang hari.
-            Jam Operasional : Selasa - Minggu pkl 15 – 22.00
-            Phone : +62 341 7068795
             </item>
             <item>
             Untuk Anda yang merasa K-popers, Urban Pop menjadi kafe yang wajib Anda tuju! Karena di kafe ini Anda akan benar-benar merasa ada di dunia korea.
-		    Jam Operasional : setiap hari 11.00 - 22.00
             </item>
             <item>
             Illy Cafe Malang adalah salah satu cafe yang populer di Malang,terutama pada kalangan mahasiswa. Mungkin bukan tempat terbaik untuk nongkrong rame-rame bareng teman. Tetapi merupakan salah satu pilihan jika kalian ingin mencoba berbagai menu makanannya yang enak.
-            Jam Operasional : 10 am – 9 pm
-            Phone : +62 341 339069
             </item>
             <item>
             Javanine merupakan kombinasi antara restaurant dan café. Javanine membawa unsur elegan dan modern yang membuat café ini cocok dikunjungi bersama keluarga atau teman-teman. Interior Javanine didominasi dengan unsur kayu yang membuatnya terlihat simple namun mewah. Dengan taman vertical di salah satu dindingnya membuat Javanine terkesan fresh.
             Sajian di Javanine kebanyakan adalah makanan tradisional. Yang membuatnya berbeda adalah cara penyajiannya yang cantik. Menu yang direkomendasikan disini adalah Nasi Bebek Crispy yang disajikan dengan 3 sambal; sambal bawang, sambal terasi, dan sambal ijo. Selain itu juga ada Semur Lidah Sapii dan Nasi Buk Madura. Untuk dessertnya kalian bisa memesan Es Teller Durian. Wah dijamin deh bikin diet kalian gagal.
-		    Jam Operasional : 11AM – 10PM
-            Phone : 0341 – 557989
             </item>
 		    <item>
             Pangsit mie bromo pojok ini cukup terkenal di Malang, Rasa dari pangsit mie tersebut sangatlah enak dan juga harga yang murah membuat orang-orang selalu datang kesini. Disini juga menjual banyak Varian pangsit mie dan juga ada Es Artistik atau disebut Es Bromo yang berbentuk seperti gunung Bromo.
-            Jam Operasional : 9AM – 9PM
-            Phone : +62 341 327853
             </item>
 		    <item>
-            Mie Lego merupakan sebuah tempat makan yang menyediakan menu Mie sebagai menu andalannya.
-            Harga yang ditawarkan sesuai dengan kualitas makanan yang diberikan.
-            Jam Operasional : 10:00 AM - 11:00 PM
-            Phone : (0341) 3012259
+            Mie Lego merupakan sebuah tempat makan yang menyediakan menu Mie sebagai menu andalannya. Harga yang ditawarkan sesuai dengan kualitas makanan yang diberikan.
             </item>
 		    <item>
             Mie Setan, pastinya yang ada dibenak Anda adalah mienya para “Setan”. Namun, istilah “Setan” tersebut diberikan untuk menggambarkan rasa pedas yang terdapat di kuliner unik satu ini.
-            Jam Operasional : 10AM – 11PM
-            Phone : +62 812-3504-3433
             </item>
     </string-array>
 
@@ -347,17 +327,16 @@
 
     </string-array>
     <array name="places_picturefood1">
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
-        <item>@drawable/lp</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
     </array>
 
     <!--FOOD5/STREETFOOD-->
@@ -375,172 +354,77 @@
     </string-array>
 
     <string-array name="place_descfood5">
-        <item>Taman Nasional</item>
-        <item>Kepulauan</item>
-        <item>Danau</item>
-        <item>Danau</item>
-        <item>Lembah</item>
-        <item>Desa Wisata</item>
-        <item>Pantai</item>
-        <item>Pantai</item>
-        <item>Pulau</item>
-        <item>Wisata Sejarah</item>
+        <item>Kisaran harga makanan antara Rp.15.000 sampai dengan Rp.35.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.20.000</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.50.000</item>
+        <item>Kisaran harga makanan antara Rp.20.000 sampai dengan Rp.50.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.29.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.30.000</item>
+        <item>Kisaran harga makanan antara Rp.18.000 per tusuk</item>
+        <item>Kisaran harga makanan antara Rp.10.000 sampai dengan Rp.15.000</item>
+        <item>Kisaran harga makanan antara Rp.5.000 sampai dengan Rp.6.000</item>
     </string-array>
 
     <string-array name="place_detailsfood5">
-        <item>Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut
-		terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9 Persen),
-		daratan pulau-pulau (3,8 Persen), terumbu karang (5,5 Persen), dan perairan lautan (89,8 Persen).
+        <item>
+        Right Time ini adalah cafe yang tempatnya tidak terlalu besar. Namun demikian menu makanan di Right Time tergolong enak. Jangan lupa mencoba menu khas cafe ini yaitu Right Time Cookies.
         </item>
-        <item>Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang
-		berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua.
-		Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi
-		Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik
-		akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi
-		anggotanya dinamakan menurut empat pulau
-		terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.
+        <item>
+        Simpang lue adalah tempat yang asik buat kongkow, nongkrong sekaligus makan di Mlaang. Lokasinya strategis, berada di pojok sebuah persimpangan jalan yang selalu  ramai. Pun begitu, tempat ini tetap asik buat dikunjungi. Karena didekatnya terdapat sebuah pohon besar dan beberapa tumbuhan hijau. Penataan Simpang luwe ini juga unik.
         </item>
-        <item>Danau ini sudah dikelola menjadi objek wisata karena berjarak 50 kilometer
-		dari Jayapura dan mudah dijangkau, sebagai pelengkap
-		di danau ini sudah banyak terdapat perahu wisata untuk berkeliling
-		di Danau Sentani.
+        <item>
+        Cafe yang mengusung konsep outdoor ini berada di tengah-tengah ladang persawahan dengan landscape pegunungan. Selain itu, di sini juga terdapat taman yang sungguh Instagramable, menu-menunya pun nendang banget di lidah. Buat kamu yang lelah setelah berkeliling Desa Wisata Pujon, bisa banget nih mampir ke sini untuk istirahat, santai-santai dan tentuya makan-makan.
         </item>
-        <item>Danau ini menyajikan panorama alam yang benar-benar memukau. Bagaimana tidak,
-		alamnya yang hijau, air danau yang biru, ditambah dengan keramahan warga lokal,
-		membuat siapa saja yang berkunjung kesana akan betah berlama-lama. Menariknya lagi,
-		di sekitar danau tersimpan Nilai-nilai seni budaya masyarakat setempat yaitu seni
-		budaya Suku Mee dan Suku Moni.
-		Mungkin hal ini pula yang membuatnya terkesan unik di mata pelancong dunia.
+        <item>
+        Dancok Cafe merupakan akronim dari Daun Coklat Cafe. Sama seperti Bukit Delight dan Cafe Sawah, Dancok Cafe juga mengusung konsep outdoor dengan suguhan pemandangan alam yang menenangkan. Dancok Cafe terletak di kawasan Coban Rondo.
         </item>
-        <item>Lembah Baliem merupakan lembah di pegunungan Jayawijaya. Lembah Baliem berada
-		di ketinggian 1600 meter dari permukaan laut yang dikelilingi pegunungan dengan
-		pemandangannya yang
-		indah dan masih alami. Suhu bisa mencapai 10-15 derajat celcius pada waktu malam.
+        <item>
+        Cafe yang resmi dibuka tanggal 1 Agustus 2016 lalu ini menawarkan view yang sungguh mendamaikan mata. Sejauh mata memandang, yang kamu lihat pegunungan, hamparan kebun bawang, kebun seledri dan persawahan. Aihh.. betapa mata kamu sungguh dimanjakan dengan pesona alam yang menyegarkan. Untuk menu-menunya sendiri, tentu sangat menggugah selera, harganya pun dijamin tak akan membuat dompetmu terkuras.
         </item>
-        <item>Desa Wisata ini menyajikan banyak macam adat istiadat di wilayah tersebut. Para wisatawan dapat turut aktif
-		dalam melakukan adat tersebut.
+        <item>
+        Menjelang malam hari halaman depan kampus SOB (School Of Business) disulap menjadi cafe berkonsep outdoor. Cafe ini memiliki maskot mobil antik VW Combi bercat kuning yang juga dipakai untuk operasional cafe. Minuman STMJ (Susu Telor Madu Jahe) menjadi andalan yang menjadikan cafe ini populer di Malang khususnya kalangan mahasiswa.
         </item>
-		<item>Pantai bosnik menjadi primadona warga Biak sebagai obyek wisata setiap akhir
-		pekan dikarenakan letak pantai yang tidak begitu jauh dari kotan dan juga
-		transportasi ke pantai tersebut mudah bisa menggunakan Ojek ataupun Angkutan
-		Kampung. Bagi wisatawan luar yang ingin ke ke Pantai bosnik jangan takut.
-		Wisatawan dari Jakarta dapat menggunakan pesawat tujuan Biak. Biasanya pesawat
-		dari Jakarta transit ke Makasar kemudian lanjut ke Biak. Jangan takut untuk
-		penginapan di Biak sudah banyak tersedia. Selain Pantai bosnik masih banyak pesona
-		pantai yang disajikan Biak untuk para wisatawan seperti
-		pantai Sabah, Adoki, Yendidori, Barito, Waterbasis, Parai dan Wisata Taman Burung.</item>
-		<item>Pantai Amai yang sangat terkenal di Papua merupakan sebuah wisata pantai
-		yang memiliki air laut yang begitu jernih dan memiliki bentang pasir putih yang
-		sangat luas. Walaupun ombak berada pada waktu menggulung sangat besar akan tetapi
-		Anda tak akan pernah menemukan air yang keruh
-		karena itu sangat memungkinkan untuk Anda berenang dan mandi di sekitar pantai.</item>
-		<item>Di pulau ini terdapat rataan terumbu karang sepanjang perairan dan
-		pantai pulau yang disebut juga 9 reef flat yang terkenal di kalangan pecinta
-		diving. Andadapat mencapai tempat ini dengan menggunakan speedboat dari manokwari
-		atau menggunakan jalur darat sampai ke Ransiki dan naik longboat dari Ransiki.</item>
-		<item>Tugu Mac Arthur merupakan tugu bersejarah yang terletak di puncak
-		Ifar Gunung. Tugu yang berdiri sejak Perang Dunia II ini didirikan oleh
-		pasukan sekutu Amerika yang pada saat itu dipimpin oleh Jendral Mac Arthur.
-		Untuk bisa masuk ke Tugu Mac Arthur, kita harus melalui daerah pos penjagaan
-		Rindam XVIII/Trikora. Jika sedang ada latihan menembak,
-		anda tidak diperkenankan masuk mengunjungi tugu Mac Arthur ini. </item>
+		<item>
+        Cafe ini cukup banyak menyajikan pilihan menu makanan dan minuman. Terdiri dari ruangan indoor maupun outdoor cozy untuk bersantai dan berkumpul bersama teman atau pasangan dengan diiringi alunan musik-musik tradisional yang juga menjadi ciri khas cafe ini.
+        </item>
+		<item>
+        Sate Gebug adalah kuliner legendaris yang telah eksis lebih dari 50 tahun di Malang. Dengan merasakan satenya, kamu bisa sekalian nostalgia dengan masa-masa silam. Karena di beberapa sudut ada pernak-pernik khas zaman dulu. Sate di tempat ini dibuat dengan bahan dasar berupa daging sapi. Selain itu ada juga sop, soto dan rawon. Agar tekstur satenya lunak, maka daging sapi dipukul-pukul lalu dibakar dengan bumbu kecap.
+        </item>
+		<item>
+        Menu yang rasanya meledak di mulut ini dijual oleh STMJ Bakso Bakar SS, tempat nongkrong dengan olahan bakso sebagai menu andalannya. Di Malang sendiri ada beberapa cabang dan kebanyakan orang yang datang ke sini ingin mencicipi Bakso Bakar Mercon yang di dalamnya ada bumbu cabai serta diguyur dengan kuah sambal, pedasnya dobel guys.
+        </item>
+		<item>
+        Hayo siapa yang belum pernah makan klepon, jajanan berbentuk bulat-bulat yang ditaburi kelapa dan bagian dalamnya adalah gula merah. Ketika masuk dalam mulut, kombinasi manis gula dan gurih kelapa menjadi kesatuan yang lezat. Nah beda lagi dengan klepon yang satu ini, karena menawarkan varian rasa buah seperti melon. Bahkan yang cokelat pun juga ada. Jika memang kamu belum pernah makan klepon, coba saja untuk beli yang original. Rasanya otentik dan mantap sekali.
+        </item>
     </string-array>
 
     <string-array name="place_locationsfood5">
-        <item>Papua Barat</item>
-        <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
-        <item>antara Kota Jayapura dan Kabupaten Jayapura, Papua</item>
-        <item>Kabupaten Paniai yang berada pada posisi pengunungan tengah
-		di pedalaman Propinsi Papua.</item>
-        <item>Papua</item>
-        <item>Papua</item>
-        <item>Makasar</item>
-        <item>Depapre, jayapura, papua</item>
-        <item>Teluk Wondama yang langsung berbatasan dengan Manokwari</item>
-        <item>Papua</item>
+        <item>Jl. Dewandaru no. 4, Malang 65141, Indonesia</item>
+        <item>Jl Letjen Sutoyo No 2, Malang, Indonesia</item>
+        <item>Pujon Kidul, Kec. Pujon, Kota Malang, Jawa Timur</item>
+        <item>Dsn. Sebaluh, Dsa. Pandensari, Kec. Pujon, Malang, Jawa Timur</item>
+        <item>Jl. Panglima Sudirman No.116, Desa Pesanggrahan, Kota Batu, Jawa Timur</item>
+        <item>Jl. Ijen 90-92, Malang, Jawa Timur</item>
+        <item>Jl. Kalpataru 110, Malang Jawa Timur</item>
+        <item>Jl. Jenderal Basuki Rahmat, Klojen, Kota Malang</item>
+        <item>Jl. Danau Bratan Raya G6J-12 Sawojajar, Malang</item>
+        <item>Jl. Parangtritis kios no. 13, daerah Pasar Tawangmangu</item>
     </string-array>
 
     <array name="places_picturefood5">
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
-        <item>@drawable/lp5</item>
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
     </array>
 
-    <!--TOP5-->
-    <string-array name="placesTop">
-        <item>Appetizern</item>
-        <item>Main Course</item>
-        <item>Dessert</item>
-        <item>Beverage</item>
-        <item>Street Food</item>
-    </string-array>
-
-    <string-array name="place_descTop">
-        <item>Kawah</item>
-        <item>Laut</item>
-        <item>Candi</item>
-        <item>Kepulauan</item>
-        <item>Kepulauan</item>
-    </string-array>
-
-    <string-array name="place_detailsTop">
-        <item>
-                Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak
-		        Gunung Ijen dengan tinggi 2.443 meter di atas permukaan laut dengan kedalaman danau
-		        200 meter dan luas kawah mencapai 5.466 Hektar. Danau kawah Ijen dikenal merupakan
-		        danau air sangat asam terbesar di dunia. Kawah Ijen berada dalam wilayah Cagar Alam
-		        Taman Wisata Ijen Kabupaten Bondowoso dan Kabupaten Banyuwangi, Jawa Timur. Setiap
-		        dini hari sekitar pukul 02.00 hingga 04.00, di sekitar kawah dapat dijumpai fenomena
-		        blue fire atau api biru, yang merupakan keunikan tempat ini, karena pemandangan
-		        alami ini hanya terjadi di dua tempat di dunia yaitu Islandia dan Ijen. Dari Kawah
-		        Ijen, kita dapat melihat pemandangan gunung lain yang ada di kompleks Pegunungan Ijen,
-		        di antaranya adalah puncak Gunung Merapi yang berada di timur Kawah Ijen,
-		        Gunung Raung, Gunung Suket, Gunung Rante, dan sebagainya.
-        </item>
-        <item>
-            Bunaken terletak di Teluk Manado. Taman laut Bunaken memiliki 20 titik penyelaman (dive spot) dengan kedalaman bervariasi
-		hingga 1.344 meter. Dari 20 titik selam itu, 12 titik selam di antaranya berada di sekitar Pulau Bunaken. Dua belas titik
-		penyelaman inilah yang paling kerap dikunjungi penyelam dan pecinta keindahan pemandangan bawah laut. Sebagian besar dari
-		12 titik penyelaman di Pulau Bunaken berjajar dari bagian tenggara hingga bagian barat laut pulau tersebut. Di wilayah
-		inilah terdapat underwater great walls, yang disebut juga hanging walls, atau dinding-dinding karang raksasa yang berdiri
-		vertikal dan melengkung ke atas. Dinding karang ini juga menjadi sumber makanan bagi ikan-ikan di perairan sekitar Pulau Bunaken.
-		Penginapan terkenal yakni Raja Laut Dive Resort, Bunaken Island Resort, Bastianos Dive Resort
-        </item>
-        <item>
-            Borobudur adalah salah satu dari keajaiban dunia. candi satu ini sangat
-            banyak dikunjungi oleh wisatawan. Candi ini banyak meyimpan cerit - cerita sejarah jaman dahulu.
-        </item>
-        <item>
-            Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang
-		berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua.
-		Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi
-		Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik
-		akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi
-		anggotanya dinamakan menurut empat pulau
-		terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.
-        </item>
-        <item>
-            Kabupaten Administrasi Kepulauan Seribu adalah sebuah kabupaten administrasi di Daerah
-            Khusus Ibukota Jakarta, Indonesia. Wilayahnya meliputi gugusan kepulauan berjumlah ± 110 Pulau
-            dan ±200 Gosong Karang. Letaknya berada di Utara Teluk Jakarta
-        </item>
-    </string-array>
-    <string-array name="place_locationsTop">
-        <item>Perbatasan antara Kabupaten Banyuwangi dan
-		    Kabupaten Bondowoso, Jawa Timur, Indonesia
-        </item>
-        <item>Manado</item>
-        <item>Jawa Tengah</item>
-        <item>Kabupaten Raja Ampat, Provinsi Papua Barat</item>
-        <item>Jakarta</item>
-    </string-array>
     <array name="places_pictureTop">
         <item>@drawable/lp</item>
         <item>@drawable/lp2</item>

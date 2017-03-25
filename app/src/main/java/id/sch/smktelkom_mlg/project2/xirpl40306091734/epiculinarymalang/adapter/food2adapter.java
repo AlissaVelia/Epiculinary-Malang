@@ -37,8 +37,6 @@ public class food2adapter extends RecyclerView.Adapter<food2adapter.ViewHolder> 
         holder.tvJudul.setText(Food2.judul);
         holder.tvDeskripsi.setText(Food2.deskripsi);
         holder.ivFoto.setImageURI(Uri.parse(Food2.foto));
-
-
     }
 
     @Override

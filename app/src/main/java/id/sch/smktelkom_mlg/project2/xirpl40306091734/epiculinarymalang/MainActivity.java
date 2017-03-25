@@ -11,6 +11,10 @@ import android.support.v7.widget.Toolbar;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by USER on 11/02/2017.
+ */
+
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TabLayout tabLayout;
@@ -49,9 +53,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new AboutFragment(), "Home");
+        adapter.addFragment(new HomeFragment(), "Home");
         adapter.addFragment(new FoodFragment(), "Food");
-        adapter.addFragment(new HomeFragment(), "About");
+        adapter.addFragment(new AboutFragment(), "About");
         viewPager.setAdapter(adapter);
     }
 

@@ -1,5 +1,9 @@
 package id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang;
 
+/**
+ * Created by USER on 11/02/2017.
+ */
+
 import android.content.Context;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
@@ -7,9 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Rehan on 12/1/2016.
- */
+
 
 public class RecyclerAdapterHome extends RecyclerView.Adapter<RecyclerViewHolderHome> {
     public static final String TITLE = "Title";
@@ -20,9 +22,9 @@ public class RecyclerAdapterHome extends RecyclerView.Adapter<RecyclerViewHolder
 
     private final Context context;
 
-    String[] name = {"Kawah Ijen", "Bunaken", "Borobudur", "Raja Ampat", "Kepulauan Seribu"};
+    String[] name = {"...", "...", "...", "...", "..."};
     String[] desc = {"Papua", "Sulawesi", "Yogyakarta", "Malang", "Pulau Komodo"};
-    int[] img = {R.drawable.j10, R.drawable.u7, R.drawable.j9, R.drawable.p2, R.drawable.j2};
+    int[] img = {R.drawable.apetizer, R.drawable.main, R.drawable.dessert, R.drawable.malang, R.drawable.street};
     // menampilkan list item dalam bentuk text dengan tipe data string dengan variable name
 
     LayoutInflater inflater;

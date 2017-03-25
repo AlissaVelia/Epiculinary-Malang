@@ -1,5 +1,9 @@
 package id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang;
 
+/**
+ * Created by USER on 11/02/2017.
+ */
+
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;

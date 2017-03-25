@@ -1,15 +1,15 @@
 package id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang;
 
+/**
+ * Created by USER on 11/02/2017.
+ */
+
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
-/**
- * Created by Rehan on 12/2/2016.
- */
 
 public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb> {
 
@@ -26,19 +26,19 @@ public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb
         public void onClick(View v) {
             //memberi aksi saat cardview diklik berdasarkan posisi tertentu
             RecyclerViewHolderAb vholder = (RecyclerViewHolderAb) v.getTag();
-            int position = vholder.getPosition();
-            if (position == 0 && position < getItemCount()) {
-                Toast.makeText(context, "Instagram : @alpanstopper", Toast.LENGTH_LONG).show();
-            }
-            if (position == 1 && position < getItemCount()) {
-                Toast.makeText(context, "Instagram : @galbielinour", Toast.LENGTH_LONG).show();
-            }
-            if (position == 2 && position < getItemCount()) {
-                Toast.makeText(context, "Instagram : @rehanarroihan", Toast.LENGTH_LONG).show();
-            }
-            if (position == 3 && position < getItemCount()) {
-                Toast.makeText(context, "Instagram : @septydarmantya", Toast.LENGTH_LONG).show();
-            }
+//            int position = vholder.getPosition();
+//            if (position == 0 && position < getItemCount()) {
+//                Toast.makeText(context, "Instagram : @alpanstopper", Toast.LENGTH_LONG).show();
+//            }
+//            if (position == 1 && position < getItemCount()) {
+//                Toast.makeText(context, "Instagram : @galbielinour", Toast.LENGTH_LONG).show();
+//            }
+//            if (position == 2 && position < getItemCount()) {
+//                Toast.makeText(context, "Instagram : @rehanarroihan", Toast.LENGTH_LONG).show();
+//            }
+//            if (position == 3 && position < getItemCount()) {
+//                Toast.makeText(context, "Instagram : @septydarmantya", Toast.LENGTH_LONG).show();
+//            }
         }
     };
 

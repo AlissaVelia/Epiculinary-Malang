@@ -1,5 +1,9 @@
 package id.sch.smktelkom_mlg.project2.xirpl40306091734.epiculinarymalang;
 
+/**
+ * Created by USER on 11/02/2017.
+ */
+
 import android.content.ContentResolver;
 import android.content.Intent;
 import android.content.res.Resources;
@@ -26,7 +30,7 @@ public class food1Activity extends AppCompatActivity implements food1adapter.IHo
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food1);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        setTitle("food1");
+        setTitle("Appetizer");
 
         rvfood1 = (RecyclerView) findViewById(R.id.recycler_view_food1);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);

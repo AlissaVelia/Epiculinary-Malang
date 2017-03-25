@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            tools:src="@drawable/bot2" />
+            tools:src="@drawable/m1" />
 
         <TextView
             android:id="@+id/name"
