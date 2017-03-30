@@ -23,7 +23,7 @@ public class RecyclerAdapterHome extends RecyclerView.Adapter<RecyclerViewHolder
     private final Context context;
 
     String[] name = {"...", "...", "...", "...", "..."};
-    String[] desc = {"Papua", "Sulawesi", "Yogyakarta", "Malang", "Pulau Komodo"};
+    String[] desc = {".", ".", ".", ".", "."};
     int[] img = {R.drawable.apetizer, R.drawable.main, R.drawable.dessert, R.drawable.malang, R.drawable.street};
     // menampilkan list item dalam bentuk text dengan tipe data string dengan variable name
 

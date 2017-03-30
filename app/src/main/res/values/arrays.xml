@@ -422,14 +422,14 @@
         <item>@drawable/s7</item>
         <item>@drawable/s8</item>
         <item>@drawable/s9</item>
-        <item>@drawable/s10</item>
+        <item>@drawable/s10 </item>
     </array>
 
     <array name="places_pictureTop">
-        <item>@drawable/lp</item>
-        <item>@drawable/lp2</item>
-        <item>@drawable/lp3</item>
-        <item>@drawable/lp4</item>
-        <item>@drawable/lp5</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a1</item>
     </array>
 </resources>

@@ -18,7 +18,7 @@ public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb
     private final Context context;
 
     String[] name = {"ve", "ve", "ve", "ve"};
-    int[] img = {R.drawable.ricol, R.drawable.ricol, R.drawable.ricol, R.drawable.ricol};
+    int[] img = {R.drawable.a1, R.drawable.a1, R.drawable.a1, R.drawable.a1};
 
     LayoutInflater inflater;
     View.OnClickListener clickListener = new View.OnClickListener() {
@@ -26,19 +26,7 @@ public class RecyclerAdapterAb extends RecyclerView.Adapter<RecyclerViewHolderAb
         public void onClick(View v) {
             //memberi aksi saat cardview diklik berdasarkan posisi tertentu
             RecyclerViewHolderAb vholder = (RecyclerViewHolderAb) v.getTag();
-//            int position = vholder.getPosition();
-//            if (position == 0 && position < getItemCount()) {
-//                Toast.makeText(context, "Instagram : @alpanstopper", Toast.LENGTH_LONG).show();
-//            }
-//            if (position == 1 && position < getItemCount()) {
-//                Toast.makeText(context, "Instagram : @galbielinour", Toast.LENGTH_LONG).show();
-//            }
-//            if (position == 2 && position < getItemCount()) {
-//                Toast.makeText(context, "Instagram : @rehanarroihan", Toast.LENGTH_LONG).show();
-//            }
-//            if (position == 3 && position < getItemCount()) {
-//                Toast.makeText(context, "Instagram : @septydarmantya", Toast.LENGTH_LONG).show();
-//            }
+//
         }
     };
 
