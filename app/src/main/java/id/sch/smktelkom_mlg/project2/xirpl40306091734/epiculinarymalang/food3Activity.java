@@ -11,6 +11,7 @@ import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
@@ -41,7 +42,7 @@ public class food3Activity extends AppCompatActivity implements food3adapter.IHo
         setTitle("Dessert");
 
         rvfood3 = (RecyclerView) findViewById(R.id.recycler_view_food3);
-        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+        LinearLayoutManager layoutManager = new GridLayoutManager(this,2);
         rvfood3.setLayoutManager(layoutManager);
         mAdapter = new food3adapter(this, mList);
         rvfood3.setAdapter(mAdapter);

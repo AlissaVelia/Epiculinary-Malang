@@ -11,6 +11,7 @@ import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
@@ -41,8 +42,8 @@ public class food4Activity extends AppCompatActivity implements food4adapter.IHo
         setTitle("Malang Food");
 
         rvfood4 = (RecyclerView) findViewById(R.id.recycler_view_food4);
-        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvfood4.setLayoutManager(layoutManager);
+        LinearLayoutManager layoutManager = new GridLayoutManager(this,2);
+         rvfood4.setLayoutManager(layoutManager);
         mAdapter = new food4adapter(this, mList);
         rvfood4.setAdapter(mAdapter);
 

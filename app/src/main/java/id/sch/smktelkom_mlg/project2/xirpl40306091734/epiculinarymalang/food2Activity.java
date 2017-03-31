@@ -11,6 +11,7 @@ import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
@@ -42,8 +43,8 @@ public class food2Activity extends AppCompatActivity implements food2adapter.IHo
         setTitle("Main Course");
 
         rvfood2 = (RecyclerView) findViewById(R.id.recycler_view_food2);
-        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        rvfood2.setLayoutManager(layoutManager);
+        LinearLayoutManager layoutManager = new GridLayoutManager(this,2);
+         rvfood2.setLayoutManager(layoutManager);
         mAdapter = new food2adapter(this, mList);
         rvfood2.setAdapter(mAdapter);
 
