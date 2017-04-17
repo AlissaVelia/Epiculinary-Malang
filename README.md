@@ -1,5 +1,5 @@
 # Epiculinary-Malang
-<h2>Nama Aplikasi : Epiculinary-Malang</h2>
+<h2>Nama Aplikasi : Epiculinary Malang</h2>
 <h2>Penjelasan Aplikasi : Aplikasi ini memberikan informasi mengenai tempat makanan terkini dan juga menu-menu makanan yang recomend untuk dinikmati</h2>
 <h2>Screenshoot Aplikasi</h2>
 ![image](https://cloud.githubusercontent.com/assets/22268453/25076001/4e35b4b0-2347-11e7-912e-f720d625aead.png)<br>
